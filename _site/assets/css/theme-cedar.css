@@ -913,10 +913,8 @@ div[data-overlay] ul {
 .btn.bg--error .btn__text i {
   color: #fff;
 }
-@media all and (min-width: 768px) {
-  .btn + .btn {
-    margin-left: 1.85714286em;
-  }
+.btn + .btn {
+  margin-left: 1.85714286em;
 }
 .btn:first-child {
   margin-left: 0;
