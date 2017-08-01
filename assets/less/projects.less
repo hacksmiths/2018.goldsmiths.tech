@@ -1,0 +1,27 @@
+.project-theme(@theme-color) {
+  @theme-color--dark: darken(@theme-color, 5%);
+  a {
+    color: @theme-color;
+  }
+  .btn--primary {
+    background: @theme-color;
+    border: @theme-color--dark;
+  }
+  .label:not([class*='bg--']) {
+    background: @theme-color--dark;
+  }
+}
+
+body[project] {
+  .project-hero img {
+    width: 25%
+  }
+}
+
+body[project="projectname"] {
+  .project-theme(teal);
+}
+
+body[project="sci-fi"] {
+  .project-theme(#001266);
+}
