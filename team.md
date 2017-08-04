@@ -34,5 +34,3 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
 </section>
 
 <hr> 
-
-{% include valuable-skills.html %}
