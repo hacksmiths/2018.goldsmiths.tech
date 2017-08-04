@@ -71,6 +71,7 @@
 
 .cta-lottery {
   background: @color-purple;
+  font-size: 1.25em;
 }
 
 a.disabled {
@@ -105,4 +106,35 @@ a.disabled {
 
 .valuable-skills * {
   text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+[data-overlay]:before{
+    background: @color-purple;
+}
+
+.team {
+  h2 {
+    margin-bottom: 2em;
+  }
+  a {
+    font-weight: normal;
+    color: inherit;
+  }
+}
+
+.press {
+  ul li a {
+    color: inherit;
+    font-weight: normal;
+  }
+  .pack {
+    display: inline-block;
+    font-weight: normal;
+  }
+}
+
+body[project="join"] .join p {
+  margin-top: 5em;
+  text-align: center;
+  font-size: 1.25em;
 }
