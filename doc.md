@@ -7,7 +7,7 @@ title: DoC.Hack 2017
 one_line: A hackday for all members of the Gold Computing community.
 tagline: Build Awesome Stuff - Learn by Doing
 
-description: <p>In 2016, we ran the first Sex Tech Hack in Europe. Over 50 attendees from a range of backgrounds joined us for two days of learning, building and sharing (ideas, that is). We had coverage from <a href="https://www.newscientist.com/article/mg23331130-100-how-to-build-better-sex-robots-stop-making-them-look-human">New Scientist</a>, <a href="https://www.girlonthenet.com/2016/12/21/amazing-inventions-from-the-goldsmiths-sex-tech-hack/">Girl on the Net</a>, and <a href="http://www.makery.info/en/2016/12/20/au-premier-sex-tech-hack-un-hackathon-sur-la-sexualite-a-londres/">Makery</a>. You can check out all 14 project videos on <a href="https://www.youtube.com/playlist?list=PLDmeXp90KI9leIRVQGsrOZvFXVo28F8wO">YouTube</a>.</p><p>In 2017, we're going to make it bigger and better than before - inviting more hackers from around the world to build exciting new sex technologies.</p>
+description: <p>Description goes here</p>
 
 date: 26th September 2017
 time: 10:00 - 17:00
@@ -26,7 +26,6 @@ buttons:
     url: #
     type: primary
 ---
-
 <hr>
 <section class="project-faq">
   <div class="container">
@@ -45,27 +44,19 @@ buttons:
           <h5>What should I bring?</h5>
           <p>All participants will need to bring their laptop, charger(s) and any other devices they wish to work on.</p>
         </div>
-        <div class="text-block">
-          <h5>How much does it cost?</h5>
-          <p>We want to make this event accessible for everyone, so there is no charge to enter. To make this possible, we need sponsorship. If you are interested in supporting, please <a href="/contact">get in touch</a>.</p>
-        </div>
       </div>
       <div class="col-md-4">
         <div class="text-block">
           <h5>Who is this event for?</h5>
-          <p>Anyone! You do not need to be a student to attend this event. We will work to ensure that there is a diverse range of people, and this includes academic status.</p>
+          <p>This is event is aimed at all students and faculty from the Department of Computing. You must be a Goldsmiths Student or Staff member to attend.</p>
         </div>
         <div class="text-block">
           <h5>Who is running this event?</h5>
-          <p>This event is run by The Department of Computing Summer School team.</p>
+          <p>This event is run by Hacksmiths.</p>
         </div>
         <div class="text-block">
           <h5>Do I need a team?</h5>
           <p>You don’t need a team to take part; it’s perfectly acceptable to create a solo project. However, during the event itself, there will be opportunities to share ideas and connect with your fellow hackers to form a team. As organisers, we’ll do our best to encourage and facilitate teamwork across the weekend.</p>
-        </div>
-        <div class="text-block">
-          <h5>Do I have to stay overnight?</h5>
-          <p>No, it is not a requisite to stay over. If you would like to stay though, we'll have a small number of airbeds available. We recommend you bring sleeping bags, pillows, and a change of clothes.</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -75,7 +66,7 @@ buttons:
         </div>
         <div class="text-block">
           <h5>What's the deal with food?</h5>
-          <p>All food across the weekend will be provided. That is: lunch and dinner on Saturday, breakfast and lunch on Sunday. All dietary requirements will be considered and catered for - please make sure you provide this information upon registering.</p>
+          <p>TBD</p>
         </div>
         <div class="text-block">
           <h5>Is there a Code of Conduct?</h5>
@@ -83,7 +74,7 @@ buttons:
         </div>
         <div class="text-block">
           <h5>I have another question</h5>
-          <p>Please contact Kevin Lewis on <a href="mailto:klewi014@gold.ac.uk">klewi014@gold.ac.uk</a>.</p>
+          <p>Please contact Nathaniel Okenwa on <a href="mailto:noken003@gold.ac.uk">noken003@gold.ac.uk</a>.</p>
         </div>
       </div>
     </div>
