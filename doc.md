@@ -7,9 +7,7 @@ title: DoC.Hack 2017
 one_line: A hackday for all members of the Gold Computing community.
 tagline: Build Awesome Stuff - Learn by Doing
 
-description: <p>At Goldsmiths we believe in "learning by doing". Hacksmiths and the Department of Computing invite you to take part in DoC.Hack - a friendly and welcoming introduction to the Computing Community at Goldsmiths. This is event is for all students in all programmes and years, and members of faculty.<br>
-For 6 hours you'll get to design and build weird, wacky and wonderful projects while meeting new people and having fun, before a relaxed show and tell. <br>
-No skill, ideas or team needed - just bring a laptop and we'll sort the rest.</p>
+description: <p>At Goldsmiths we believe in "learning by doing". Hacksmiths and the Department of Computing invite you to take part in DoC.Hack - a friendly and welcoming introduction to the Computing Community at Goldsmiths. This is event is for all students in all programmes and years, and members of faculty.<br>For 6 hours you'll get to design and build weird, wacky and wonderful projects while meeting new people and having fun, before a relaxed show and tell.<br>No skill, ideas or team needed - just bring a laptop and we'll sort the rest.</p>
 
 date: 26th September 2017
 time: 10:00 - 17:00
