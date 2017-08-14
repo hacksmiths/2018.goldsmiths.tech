@@ -1,0 +1,15 @@
+<section class="cover imagebg height-auto text-center project-hero" data-gradient-bg="#4876BD,#5448BD,#8F48BD,#BD48B1">
+  <div class="background-image-holder background--bottom"> <img alt="background" src="/assets/img/projects/hero-{{page.projectname}}.jpg"> </div>
+  <div class="container pos-vertical-center">
+    <div class="row">
+      <div class="col-sm-9 col-md-8">
+        <img src="/assets/img/projects/logo-{{page.projectname}}.svg" alt="{{page.title}} Logo">
+        <h1> {{page.title}} </h1>
+        <p class="lead">{{page.one_line}}</p>
+        {% for button in page.buttons %}
+          <a class="btn type--uppercase btn--{{button.type}}" href="{{button.url}}">{{button.name}}</a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
