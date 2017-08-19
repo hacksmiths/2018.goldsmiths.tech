@@ -1,6 +1,10 @@
 <section class="sponsors">
-<div class="container">
-    <h2>This event is supported by</h2>
+  <div class="container">
+    {% if page.projectname == "press" %}
+      <h2>Previous project supporters</h2>
+    {% else %}
+      <h2>This event is supported by</h2>
+    {% endif %}
     <div class="row">
         {% for supporter in page.supporters %}
           <div class="col-sm-3">
@@ -11,4 +15,5 @@
     {% if page.show_support_text %}
       <p class="support">As a student-run society, we rely on the generosity of organisations to run our events. If you'd like to support this event, please <a href="/contact">get in touch</a>.</p>
     {% endif %}
+  </div>
 </section>

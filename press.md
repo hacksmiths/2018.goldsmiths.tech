@@ -4,6 +4,19 @@ projectname: press
 layout: default
 og: og.png
 one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths, University of London.
+supporters:
+  - name: annual-fund
+  - name: autodesk
+  - name: dottech
+  - name: github
+  - name: glitch
+  - name: mlh
+  - name: mystery-vibe
+  - name: roli
+  - name: samsung-internet
+  - name: sendgrid
+  - name: spotify
+  - name: twilio
 ---
 <section class="press">
   <div class="container">
@@ -11,7 +24,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
       <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
         <article>
           <div class="article__title text-center">
-            <h1 class="h2">Hi, we're Hacksmiths.</h1> 
+            <h1 class="h2">Hi, we're Hacksmiths.</h1>
             <h3>The award winning student run tech society at Goldsmiths, University of London.</h3>
           </div>
             <div class="article__body"> <img alt="Image" src="/assets/img/team-together.jpg">
@@ -33,6 +46,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
             </ul>
           </div>
         </article>
+        {% include project-supporters.html %}
       </div>
     </div>
   </div>

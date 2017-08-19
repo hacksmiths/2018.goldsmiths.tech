@@ -1,7 +1,7 @@
 ---
 layout: project
 projectname: sex-tech-hack
-og: projects/og-sex-tech-hack.png
+og: projects/sex-tech-hack/og.png
 
 title: Sex Tech Hack II - The Second Coming
 one_line: A hackathon exploring companionship, intimacy & sexuality.
@@ -9,13 +9,13 @@ tagline: Should Taboo Stifle Innovation?
 
 description: <p>In 2016, we ran the first Sex Tech Hack in Europe. Over 50 attendees from a range of backgrounds joined us for two days of learning, building and sharing (ideas, that is). We had coverage from <a href="https://www.newscientist.com/article/mg23331130-100-how-to-build-better-sex-robots-stop-making-them-look-human">New Scientist</a>, <a href="https://www.girlonthenet.com/2016/12/21/amazing-inventions-from-the-goldsmiths-sex-tech-hack/">Girl on the Net</a>, and <a href="http://www.makery.info/en/2016/12/20/au-premier-sex-tech-hack-un-hackathon-sur-la-sexualite-a-londres/">Makery</a>. You can check out all 14 project videos on <a href="https://www.youtube.com/playlist?list=PLDmeXp90KI9leIRVQGsrOZvFXVo28F8wO">YouTube</a>.</p><p>In 2017, we're going to make it bigger and better than before - inviting more hackers from around the world to build exciting new sex technologies.</p>
 
-date: 16-17 December 2017
+date: TBC Nov/Dec 2017
 time: 10:00 Sat - 17:00 Sun
 address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: SexTechHack
 
-supporters: 
-  - name: goldsmiths 
+supporters:
+  - name: goldsmiths
   - name: doc
   - name: goldsu
 
