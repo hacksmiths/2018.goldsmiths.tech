@@ -1,7 +1,7 @@
 ---
 layout: project
 projectname: craft
-og: og.png
+og: /projects/craft/og.png
 
 title: Code & Craft
 one_line: Weekly co-working space for projects
