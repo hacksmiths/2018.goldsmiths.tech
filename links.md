@@ -14,9 +14,9 @@ links:
     desc: Contains team profiles, finances, contacts and inventory.
     url: https://airtable.com/tblPmgNmMxihrOc99
     platform: Requires Airtable access
-  - name: Hacksmiths Delta
-    desc: Contains to-do lists for projects, and important common info.
-    url: https://airtable.com/tblRC0Yxn3ShRa90e
+  - name: Hacksmiths Pipes
+    desc: Our pipeline & sales tool to track sponsorship deals
+    url: https://airtable.com/tblRCeRO60TnEkAbd
     platform: Requires Airtable access
   - name: Credentials
     desc: Contains our usernames and passwords for online accounts.
@@ -42,7 +42,7 @@ links:
                         <div class="feature feature-1">
                             <div class="feature__body boxed boxed--border">
                                 <h5>{{link.name}}</h5>
-                                <p>{{link.desc}}</p> 
+                                <p>{{link.desc}}</p>
                                 <small>{{link.platform}}</small>
                             </div>
                         </div>
