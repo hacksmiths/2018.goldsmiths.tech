@@ -1,0 +1,10 @@
+- name: Sparkfun Redboards
+  photo: redboard
+- name: Bare Conductive Touch Boards
+  photo: touchboard
+- name: Bare Conductive Pi Caps
+  photo: pi-cap
+- name: Grove Starter Kit Plus – IoT Edition
+  photo: grove
+- name: Teenage Engineering Pocket Operators
+  photo: po
