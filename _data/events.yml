@@ -33,6 +33,11 @@
   date: November 16 2017
   url: /monthly
 
+- name: Sex Tech Hack II
+  line: Looking at intimacy, sexuality and companionship with technology.
+  date: November 25-26 2017
+  url: /sex
+
 - name: Local Hack Day 2017
   line: We run a center for the worldwide hack day aimed at beginners.
   date: December 2 2017
@@ -42,11 +47,6 @@
   line: Learn about the semantics of language through code.
   date: December 8 2017
   url: /monthly
-
-- name: Sex Tech Hack II
-  line: Looking at intimacy, sexuality and companionship with technology.
-  date: TBC Nov/Dec 2017
-  url: /sex
 
 - name: Global Game Jam 2018
   line: Build interactive playable experiences for both digital and tabletop formats.
