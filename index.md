@@ -23,7 +23,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
                     <div class="feature feature-2">
                         <div class="feature__body">
                             <h5>Weekly Code &amp; Craft</h5>
-                            <p>A friendly and supportive environment to play around with your ideas, and ask for help. Wednesdays at 4-6pm in St James Hatcham Building from November 2017.<br></p>
+                            <p>A friendly and supportive environment to play around with new ideas and get support. Wednesdays at 4-6pm from November 1.<br></p>
                         </div>
                     </div>
                     <div class="feature feature-2">
@@ -64,7 +64,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
                         <div class="feature feature-1">
                             <div class="feature__body boxed boxed--border">
                                 <h5>{{event.name}}</h5>
-                                <p>{{event.line}}</p> 
+                                <p>{{event.line}}</p>
                                 <small>{{event.date}}</small>
                             </div>
                         </div>
