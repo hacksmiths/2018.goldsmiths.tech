@@ -72,7 +72,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
                 </div>
             {% endfor %}
         </div>
-        <h3><a href="https://calendar.google.com/calendar/embed?src=jc9ssh98m6poas5pdk6c5d966p73m5n0%40import.calendar.google.com&ctz=Europe/London">Click here for a full calendar which you can import to your own apps.</a></h3>
+        <!-- <h3><a href="https://calendar.google.com/calendar/embed?src=jc9ssh98m6poas5pdk6c5d966p73m5n0%40import.calendar.google.com&ctz=Europe/London">Click here for a full calendar which you can import to your own apps.</a></h3> -->
     </div>
 </section>
 
