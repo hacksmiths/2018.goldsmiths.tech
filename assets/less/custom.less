@@ -83,10 +83,16 @@ a.disabled {
   color: @color-primary-2;
 }
 
-.project-hero .btn {
-  margin-bottom: 1em;
-  margin-left: 0.5em;
-  margin-right: 0.5em;
+.project-hero {
+  .meta span:not(:last-child) {
+    margin-right: 1em;
+    display: inline-block;
+  }
+  .btn {
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
 }
 
 .sponsors {
@@ -160,15 +166,11 @@ body[project="join"] .join p {
   }
   .url {
     margin-top: 1em;
-    // color: white;
+    color: white;
   }
   @media screen and (max-width: 768px) {
     .feature img + .boxed {
       text-align: center;
     }
   }
-}
-
-[project=soon] [data-gradient-bg] > canvas + .background-image-holder {
-  opacity: 0.6 !important;
 }

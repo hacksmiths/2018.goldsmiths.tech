@@ -11,7 +11,7 @@
 - name: HEBOCON 2017
   line: The best worst robot competition. Build them from trash and fight!
   date: October 4 2017
-  url: /soon
+  url: /hebocon
 
 - name: Workshop - Intro to Web Design
   line: Learn the skills and techniques for building your first website.
@@ -21,7 +21,7 @@
 - name: Lovelace
   line: A social event for women and non binary people interested in creative tech.
   date: October 21 2017
-  url: /soon
+  url: /lovelace
 
 - name: Workshop - Better Teamwork with Git
   line: A no-jargon introduction to open source culture and workflow.
@@ -36,7 +36,7 @@
 - name: Local Hack Day 2017
   line: We run a center for the worldwide hack day aimed at beginners.
   date: December 2 2017
-  url: /soon
+  url: https://localhackday.mlh.io/
 
 - name: Workshop - Generative Storytelling & Bots
   line: Learn about the semantics of language through code.
@@ -46,14 +46,14 @@
 - name: Global Game Jam 2018
   line: Build interactive playable experiences for both digital and tabletop formats.
   date: January 26-28 2018
-  url: /soon
+  url: /game
 
 - name: Anvil Hack IV
   line: Our annual student hackathon focussing on creative digital art.
   date: 24-25 February 2018
-  url: /soon
+  url: /anvil
 
 - name: Music Hack Day London
   line: Experiment with music and develop ideas for it's future.
   date: 10-11 March 2018
-  url: /soon
+  url: /music
