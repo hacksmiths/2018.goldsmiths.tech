@@ -153,12 +153,19 @@ body[project="join"] .join p {
 }
 
 .hardware .list {
-  margin-top: 4em;
-  text-align: center;
-  img {
-    border: 1px solid #ececec;
-    border-bottom: none;
-    padding-top: 1em;
+  border: none;
+  margin-top: 6em;
+  .feature h5 {
+    font-size: 1.25em;
+  }
+  .url {
+    margin-top: 1em;
+    // color: white;
+  }
+  @media screen and (max-width: 768px) {
+    .feature img + .boxed {
+      text-align: center;
+    }
   }
 }
 

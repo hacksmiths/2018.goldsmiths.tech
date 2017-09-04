@@ -1,12 +1,29 @@
-- name: Sparkfun Redboards
+- name: 5 Sparkfun Redboards
   photo: redboard
-- name: Bare Conductive Touch Boards
+  desc: The RedBoard development platform from SparkFun can be programmed over a USB mini-B cable using the Arduino IDE. Just plug in the board, select "Arduino UNO" from the board menu, and you’re ready to upload code. RedBoard has all of the hardware peripherals you know and love.
+  url: https://www.sparkfun.com/products/13975
+
+- name: 1x Bare Conductive Touch Board
   photo: touchboard
-- name: Bare Conductive Pi Caps
+  desc: Touch Board can turn almost any material or surface into a sensor by connecting it to one of its 12 electrodes, using conductive paint or anything conductive. Touch Board is a tool to make your projects interactive, responsive, smart or just fun. It’s designed as an easy-to-use platform for a huge range of projects.
+  url: https://www.bareconductive.com/shop/touch-board/
+
+- name: 1x Bare Conductive Pi Cap
   photo: pi-cap
-- name: Grove Starter Kit Plus – IoT Edition
+  desc: The Pi Cap adds precise capacitive touch, proximity sensing and high quality audio to Raspberry Pis. The Pi Cap Raspbian package contains code examples for C++, Python  and Node.js.
+  url: https://www.bareconductive.com/shop/pi-cap/
+
+- name: 1x Grove Starter Kit Plus – IoT Edition
   photo: grove
-- name: Teenage Engineering Pocket Operators
+  desc: Contains plug-and-play components, including touch, light, sound, temperature and vibration sensors, an accelerometer, LEDs, a buzzer and a stepper motor with driver. You can use jumper cables to connect these directly to our microcontrollers.
+  url: http://wiki.seeedstudio.com/wiki/Grove_Starter_Kit_Plus_-_IoT_Edition
+
+- name: 2x Teenage Engineering Pocket Operators
   photo: po
-- name: Estimote Beacons Development Kit
+  desc: Pocket Operators are small, ultra portable music devices, with studio quality sound and the flexibility to make music on the go. affordable for everyone and compatible with all other music gear.
+  url: https://www.teenageengineering.com/products/po
+
+- name: 1x Estimote Location Beacons Development Kit
   photo: estimote
+  desc: Estimote Beacons are small wireless sensors that you can attach to any location or object. They broadcast tiny radio signals which your smartphone can receive and interpret, unlocking micro-location and contextual awareness. This kit has 3 beacons.
+  url: http://developer.estimote.com/
