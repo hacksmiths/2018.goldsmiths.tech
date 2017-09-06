@@ -1,4 +1,4 @@
-- name: 5 Sparkfun Redboards
+- name: 5x Sparkfun Redboards
   photo: redboard
   desc: The RedBoard development platform from SparkFun can be programmed over a USB mini-B cable using the Arduino IDE. Just plug in the board, select "Arduino UNO" from the board menu, and you’re ready to upload code. RedBoard has all of the hardware peripherals you know and love.
   url: https://www.sparkfun.com/products/13975
@@ -27,3 +27,8 @@
   photo: estimote
   desc: Estimote Beacons are small wireless sensors that you can attach to any location or object. They broadcast tiny radio signals which your smartphone can receive and interpret, unlocking micro-location and contextual awareness. This kit has 3 beacons.
   url: http://developer.estimote.com/
+
+- name: 2x LEAP Motion Sensors
+  photo: leap
+  desc: The Leap Motion Controller captures the movement of your hands and fingers so you can interact with your computer in a whole new way. Swipe, pinch or grab in the air and magically see your actions on your screen. Thank you to Phil Nash for donating these.
+  url: https://www.leapmotion.com/
