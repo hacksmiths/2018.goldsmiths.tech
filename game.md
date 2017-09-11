@@ -13,4 +13,6 @@ buttons:
   - name: Coming soon - get updates
     url: http://m.me/smithsbot
     type: primary
+  - name: 2017 Highlights
+    url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
 ---

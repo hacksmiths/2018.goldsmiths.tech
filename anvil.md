@@ -13,4 +13,6 @@ buttons:
   - name: Coming soon - get updates
     url: http://m.me/smithsbot
     type: primary
+  - name: Anvil Hack III Highlights
+    url: https://storify.com/_phzn/anvilhackiii
 ---
