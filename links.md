@@ -42,6 +42,10 @@ links:
     desc: A deck to use during lecture shout outs. Covers main three items with a CTA
     url: /assets/files/intro.pdf
     platform: Public
+  - name: Hacksmiths HQ Demo
+    desc: A stripped-down public version of HQ to show how we organise ourselves.
+    url: http://bit.ly/hacksmiths-universe
+    platform: Public
 ---
 
 <section class="events links">
