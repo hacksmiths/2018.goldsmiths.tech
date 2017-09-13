@@ -26,10 +26,22 @@ links:
     desc: For ad-hoc discussions/questions/support requests.
     url: https://www.facebook.com/groups/657541384457046
     platform: Requires adding
-  - name: Google Drive Folder
+  - name: Google Drive Folder (2017+)
     desc: Where our files live - slides, photos, invoices, assets, etc
     url: https://drive.google.com/drive/folders/0B9BnNXF3WcjGOG9MZUFobWxjVEk?usp=sharing
     platform: Public, but don't share
+  - name: Google Drive Folder (Pre 2017)
+    desc: Where our files live - slides, photos, invoices, assets, etc
+    url: https://drive.google.com/drive/folders/0B0c88K_qBNJqeGNOcTQzOUFITmc?usp=sharing
+    platform: Public, but don't share
+  - name: 2017-2018 Prospectus
+    desc: A visual rundown of our events in the 2017-2018 year
+    url: /assets/files/prospectus.pdf
+    platform: Public
+  - name: Student-facing Intro
+    desc: A deck to use during lecture shout outs. Covers main three items with a CTA
+    url: /assets/files/intro.pdf
+    platform: Public
 ---
 
 <section class="events links">
