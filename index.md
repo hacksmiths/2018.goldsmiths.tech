@@ -13,9 +13,16 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
                 <div class="switchable__text">
                     <img src="/assets/img/logo-hacksmiths.svg" alt="Hacksmiths Logo">
                     <p class="lead"> Hacksmiths is the student-run tech society at Goldsmiths. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology. </p>
-                    <a class="btn btn--sm btn--primary type--uppercase" href="/join"> <span class="btn__text">Join for free</span> </a>
-                    <a class="btn btn--sm type--uppercase" href="http://twitter.com/hacksmiths"> <span class="btn__text"><i class="socicon socicon-twitter icon icon--xs"></i></span> </a>
-                    <a class="btn btn--sm type--uppercase" href="http://facebook.com/hacksmiths"> <span class="btn__text"><i class="socicon socicon-facebook icon icon--xs"></i></span> </a>
+                    <a class="btn btn--sm btn--primary type--uppercase" href="/join"> <span class="btn__text">Become a member by joining for free</span> </a>
+                    <br>
+                    <a href="//www.youtube.com/watch?v=pkHNc2wiNxI" class="btn btn--sm type--uppercase" data-lity>
+                        <i class="socicon icon socicon-youtube"></i>
+                        <span>What we do</span>
+                    </a>
+                    <a href="https://m.me/smithsbot" class="btn btn--sm type--uppercase" target="_blank">
+                        <i class="socicon icon socicon-messenger"></i>
+                        <span>Get updates</span>
+                    </a>
                 </div>
             </div>
             <div class="col-sm-6">

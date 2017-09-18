@@ -15,7 +15,7 @@ address: RHB 137<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: hacksmiths
 
 supporters:
-  - name: goldsmiths
+  - name: careers
   - name: doc
   - name: goldsu
 

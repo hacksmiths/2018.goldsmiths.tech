@@ -1,6 +1,6 @@
 ---
-title: Press
-projectname: press
+title: About
+projectname: about
 layout: default
 og: og.png
 one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths, University of London.
@@ -18,7 +18,7 @@ supporters:
   - name: spotify
   - name: twilio
 ---
-<section class="press">
+<section class="about">
   <div class="container">
     <div class="row">
       <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
