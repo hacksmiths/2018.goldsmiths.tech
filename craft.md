@@ -13,7 +13,7 @@ description: <p>Join us for a free weekly making session. Whatever your age, bac
 
 date: Every Wed from Nov 1
 time: 16:00 - 18:00
-address: RHB 304<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
+address: Room TBC<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: codeandcraft
 
 supporters:

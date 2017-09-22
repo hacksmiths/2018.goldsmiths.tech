@@ -11,7 +11,7 @@ description: <p>Every month, we run a beginner-friendly workshop on a range of t
 
 date: Once a month
 time: 18:00 - 20:00
-address: RHB 137<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
+address: RHB 304a<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: hacksmiths
 
 supporters:
