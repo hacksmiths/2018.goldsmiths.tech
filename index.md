@@ -13,7 +13,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
                 <div class="switchable__text">
                     <img src="/assets/img/logo-hacksmiths.svg" alt="Hacksmiths Logo">
                     <p class="lead"> Hacksmiths is the student-run tech society at Goldsmiths. Our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology. </p>
-                    <a class="btn btn--sm btn--primary type--uppercase" href="/join"> <span class="btn__text">Become a member by joining for free</span> </a>
+                    <a class="btn btn--sm btn--primary type--uppercase" href="/join"> <span class="btn__text">Become a member - join for free</span> </a>
                     <br>
                     <a href="//www.youtube.com/watch?v=pkHNc2wiNxI" class="btn btn--sm type--uppercase" data-lity>
                         <i class="socicon icon socicon-youtube"></i>
