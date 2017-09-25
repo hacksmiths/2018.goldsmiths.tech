@@ -62,7 +62,7 @@ buttons:
       <div class="col-md-4">
         <div class="text-block">
           <h5>What's the deal with food?</h5>
-          <p>TBD</p>
+          <p>We'll bring the snacks.</p>
         </div>
         <div class="text-block">
           <h5>Is there a Code of Conduct?</h5>
