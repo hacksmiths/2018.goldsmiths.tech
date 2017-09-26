@@ -1,7 +1,7 @@
 ---
 layout: project
 projectname: doc-hack
-og: projects/og-doc-hack.png
+og: projects/doc-hack/og.png
 
 title: DoC.Hack 2017
 one_line: A hackday for all members of the Gold Computing community.
