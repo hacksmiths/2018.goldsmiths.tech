@@ -4,13 +4,13 @@ projectname: lovelace
 og: projects/lovelace/og.png
 
 title: Lovelace
-one_line: A series of social events for women and non binary people interested in STEM.
+one_line: A series of social events for women and non binary people interested in tech.
 tagline: Network, create and share with friends.
 
 description: <p>With a less than generous population of women and non-binary people in computing, it can sometimes feel that there is a lack of support and diversity within the industry. This event is for individuals who would like to help build a stronger community at goldsmiths, to share, create and learn.</p><p>We would like to ensure that everyone in computing has the opportunity to have an exciting and positive experience whilst studying or researching. Use this event to make friends, learn, and get inspired. We will have talented individuals speak about their careers and experiences as educators, researchers and creators.</p>
 
 date: October 21st 2017
-time: 10:00 - 17:00
+time: 12:00 - 17:00
 address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: GSLovelace
 
