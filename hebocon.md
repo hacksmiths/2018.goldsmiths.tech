@@ -20,6 +20,8 @@ buttons:
     type: primary
   - name: What is Hebocon (video)
     url: https://www.youtube.com/watch?v=46ivFpsmEVQ
+  - name: Facebook event
+    url: https://www.facebook.com/events/1407561699297323
 
 show_support_text: true
 
