@@ -38,6 +38,10 @@ links:
     desc: A visual rundown of our events in the 2017-2018 year
     url: /assets/files/prospectus.pdf
     platform: Public
+  - name: 2017-2018 Tiers
+    desc: Our pricing document for our 2017-2018 events.
+    url: /assets/files/tiers.pdf
+    platform: Public
   - name: Student-facing Intro
     desc: A deck to use during lecture shout outs. Covers main three items with a CTA
     url: /assets/files/intro.pdf
