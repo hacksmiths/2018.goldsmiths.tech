@@ -61,7 +61,7 @@ buttons:
         </div>
         <div class="text-block">
           <h5>Who is running this event?</h5>
-          <p>This event is run by The Department of Computing Summer School team.</p>
+          <p>This event is run by Hacksmiths - the student-run tech society at Goldsmiths.</p>
         </div>
         <div class="text-block">
           <h5>Do I need a team?</h5>
@@ -84,6 +84,10 @@ buttons:
         <div class="text-block">
           <h5>Is there a Code of Conduct?</h5>
           <p>Yes, and you must agree to it before attending. You can find it <a href="https://github.com/hacksmiths/code-of-conduct/blob/master/SEX.md">here</a>.</p>
+        </div>
+        <div class="text-block">
+          <h5>Can I come if I'm under 18?</h5>
+          <p>Not to this one, sorry. Check out <a href="/craft">Code & Craft</a>.</p>
         </div>
         <div class="text-block">
           <h5>I have another question</h5>
