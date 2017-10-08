@@ -7,7 +7,7 @@ title: Sex Tech Hack II - The Second Coming
 one_line: A hackathon exploring companionship, intimacy & sexuality.
 tagline: Should Taboo Stifle Innovation?
 
-description: <p>In 2016, we ran the first Sex Tech Hack in Europe. Over 50 attendees from a range of backgrounds joined us for two days of learning, building and sharing (ideas, that is). We had coverage from <a href="https://www.newscientist.com/article/mg23331130-100-how-to-build-better-sex-robots-stop-making-them-look-human">New Scientist</a>, <a href="https://www.girlonthenet.com/2016/12/21/amazing-inventions-from-the-goldsmiths-sex-tech-hack/">Girl on the Net</a>, and <a href="http://www.makery.info/en/2016/12/20/au-premier-sex-tech-hack-un-hackathon-sur-la-sexualite-a-londres/">Makery</a>. You can check out all 14 project videos on <a href="https://www.youtube.com/playlist?list=PLDmeXp90KI9leIRVQGsrOZvFXVo28F8wO">YouTube</a>.</p><p>In 2017, we're going to make it bigger and better than before - inviting more hackers from around the world to build exciting new sex technologies.</p>
+description: <p>In 2016, we ran the first Sex Tech Hack in Europe. Over 50 attendees from a range of backgrounds joined us for two days of learning, building and sharing (ideas, that is). We had coverage from <a href="https://www.newscientist.com/article/mg23331130-100-how-to-build-better-sex-robots-stop-making-them-look-human">New Scientist</a>, <a href="https://www.girlonthenet.com/2016/12/21/amazing-inventions-from-the-goldsmiths-sex-tech-hack/">Girl on the Net</a>, and <a href="http://www.makery.info/en/2016/12/20/au-premier-sex-tech-hack-un-hackathon-sur-la-sexualite-a-londres/">Makery</a>. You can check out all 14 project videos on <a href="https://www.youtube.com/playlist?list=PLDmeXp90KI9leIRVQGsrOZvFXVo28F8wO">YouTube</a>.</p><p>In 2017, we're going to make it bigger and better than before - inviting more hackers from around the world to build exciting new sex technologies.</p><p>On Friday November 24, we'll also be running a day-long conference to encourage discussion around these themes. We'll shre more information about this event shortly.</p>
 
 date: November 25-26 2017
 time: 10:00 Sat - 17:00 Sun
@@ -22,8 +22,8 @@ supporters:
 show_support_text: true
 
 buttons:
-  - name: Register Interest
-    url: https://goo.gl/forms/Xr0j7ePX0qoURxik1
+  - name: Apply for tickets
+    url: https://goo.gl/forms/Hp7Lv74qQBl94Swq2
     type: primary
   - name: Sponsorship Enquiries
     url: /contact
@@ -43,7 +43,7 @@ buttons:
         </div>
         <div class="text-block">
           <h5>Who owns the projects?</h5>
-          <p>All projects built at this event belongs completely to the teams. However, to generate the widest benefit from this event, we encourage attendees to provide Open Source licenses for the results of their work.</a>.</p>
+          <p>All projects built at this event belongs completely to the teams. However, to generate the widest benefit from this event, we encourage attendees to provide Open Source licenses for the results of their work.</p>
         </div>
         <div class="text-block">
           <h5>What should I bring?</h5>
@@ -83,7 +83,7 @@ buttons:
         </div>
         <div class="text-block">
           <h5>Is there a Code of Conduct?</h5>
-          <p>Yes, and you must agree to it before attending. You can find it <a href="https://github.com/hacksmiths/code-of-conduct">here</a>.</p>
+          <p>Yes, and you must agree to it before attending. You can find it <a href="https://github.com/hacksmiths/code-of-conduct/blob/master/SEX.md">here</a>.</p>
         </div>
         <div class="text-block">
           <h5>I have another question</h5>
