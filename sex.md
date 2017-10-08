@@ -18,6 +18,7 @@ supporters:
   - name: goldsmiths
   - name: doc
   - name: goldsu
+  - name: samsung-internet
 
 show_support_text: true
 
