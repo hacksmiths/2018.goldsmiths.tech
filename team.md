@@ -15,16 +15,14 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
       {% for person in site.data.team %}
         <div class="col-sm-3">
           <div class="feature feature-8">
-            <img alt="Image" src="/assets/img/team/{{person.photo}}.jpg">
+            <img src="/assets/img/team/{{person.photo}}.jpg">
             <h5>{{person.name}}</h5>
             {% if person.role %}
               <span>{{person.role}}</span>
             {% else %}
               <span>Committee Member</span>
             {% endif %}
-            {% if person.email %}
-              <br><a href="mailto:{{person.email}}">{{person.email}}</a>
-            {% endif %}
+            <br><a href="mailto:{{person.email}}">{{person.email}}</a>
           </div>
         </div>
       {% endfor %}
