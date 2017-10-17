@@ -1,4 +1,6 @@
 ---
+past: true
+
 layout: project
 projectname: doc-hack
 og: projects/doc-hack/og.png
@@ -21,10 +23,6 @@ supporters:
 
 show_support_text: false
 
-buttons:
-  - name: Get Your Tickets
-    url: https://www.eventbrite.co.uk/e/dochack-tickets-37010252662
-    type: primary
 ---
 <hr>
 <section class="project-faq">

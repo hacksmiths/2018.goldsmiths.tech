@@ -70,6 +70,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
                     <a {% unless event.url == "undefined" %} href="{{event.url}}" {% endunless %}>
                         <div class="feature feature-1">
                             <div class="feature__body boxed boxed--border">
+                                {% if event.past %}<span>Past</span>{% endif %}
                                 <h5>{{event.name}}</h5>
                                 <p>{{event.line}}</p>
                                 <small>{{event.date}}</small>

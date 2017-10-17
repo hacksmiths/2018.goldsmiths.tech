@@ -1,4 +1,6 @@
 ---
+past: true
+
 layout: project
 projectname: hebocon
 og: projects/hebocon/og.png
@@ -15,13 +17,8 @@ address: RHB 304<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: HeboconLdn
 
 buttons:
-  - name: Get a free ticket
-    url: https://www.eventbrite.co.uk/e/hebocon-london-2017-tickets-38254682786
-    type: primary
   - name: What is Hebocon (video)
     url: https://www.youtube.com/watch?v=46ivFpsmEVQ
-  - name: Facebook event
-    url: https://www.facebook.com/events/1407561699297323
 
 show_support_text: true
 
