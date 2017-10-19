@@ -3,7 +3,7 @@ layout: project
 projectname: sex-tech-hack
 og: projects/sex-tech-hack/og.png
 
-title: Sex Tech Hack II - The Second Coming
+title: Sex Tech Hack II
 one_line: A hackathon exploring companionship, intimacy & sexuality.
 tagline: Should Taboo Stifle Innovation?
 
