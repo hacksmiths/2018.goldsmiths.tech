@@ -27,7 +27,7 @@ supporters:
             <h1 class="h2">Hi, we're Hacksmiths.</h1>
             <h3>The award winning student run tech society at Goldsmiths, University of London.</h3>
           </div>
-          <div class="article__body"> <img alt="Image" src="/assets/img/team-together.jpg">
+          <div class="article__body"> <img alt="Team Photo" src="/assets/img/team-full.jpg">
             <p>Founded in 2014, our mission is to provide an opportunity for people in all departments and from all backgrounds the chance to learn about, and play with, technology. We do this by organising talks, workshops and facilitating hackathons (invention marathons).</p>
             <p>Hacksmiths is committed to making all projects as inclusive as possible. While we look at many spectrums for this (gender, age, socio-economic circumstance), we are particularly interested in how we can engage students (and faculty) outside of Computing. Our hope is that this will not only increase interdisciplinary collaboration, but strengthen the Goldsmiths community overall.</p>
             <p>We've been featured in <a href="https://www.newscientist.com/article/mg23331130-100-how-to-build-better-sex-robots-stop-making-them-look-human">New Scientist</a>, <a href="https://www.girlonthenet.com/2016/12/21/amazing-inventions-from-the-goldsmiths-sex-tech-hack/">Girl on the Net</a> and the BBC 1 documentary <a href="http://www.bbc.co.uk/programmes/b08w1kl6">'Invented In... London'.</a></p>
@@ -66,6 +66,9 @@ supporters:
           </div>
         </article>
         {% include project-supporters.html %}
+        <div class="team-photo-fun">
+          <img alt="Team Photo" src="/assets/img/team-fun.jpg">
+        </div>
       </div>
     </div>
   </div>
