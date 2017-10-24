@@ -16,10 +16,11 @@
   url: /monthly
   past: true
 
-- name: Lovelace
+- name: Lovelace - Hello World
   line: A social for women and non binary people interested in creative tech.
   date: October 21 2017
   url: /lovelace
+  past: true
 
 - name: Code & Craft
   line: Weekly space to play with technology, for everyone.

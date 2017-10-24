@@ -28,12 +28,6 @@ supporters:
 
 show_support_text: true
 
-buttons:
-  - name: Get a free ticket
-    url: https://www.eventbrite.co.uk/e/lovelace-october-2017-tickets-38254954599
-    type: primary
-  - name: Facebook event
-    url: https://www.facebook.com/events/147257975879344
 ---
 
 <hr>
