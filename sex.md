@@ -23,9 +23,6 @@ supporters:
 show_support_text: true
 
 buttons:
-  - name: Apply for tickets
-    url: https://goo.gl/forms/Hp7Lv74qQBl94Swq2
-    type: primary
   - name: Sponsorship Enquiries
     url: /contact
   - name: 2016 Highlights
