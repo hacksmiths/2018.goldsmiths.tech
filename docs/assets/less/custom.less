@@ -1,0 +1,240 @@
+.events {
+  padding-top: 0;
+  padding-bottom: 60px;
+  h2 {
+    margin: 60px 0;
+    text-align: center;
+  }
+  h3 {
+    font-size: 1em;
+    text-align: center;
+    font-weight: normal;
+  }
+
+  .event-single {
+    a {
+      text-decoration: none;
+      font-weight: inherit;
+      color: inherit;
+      &[href] {
+        .boxed {
+          border-color: #ccc;
+          &:hover {
+            border-color: @color-pink;
+          }
+        }
+      }
+      p {
+        font-weight: normal;
+      }
+    }
+    .boxed {
+      margin-bottom: 0;
+      span {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background: rgba(200, 200, 200, 0.25);
+        padding: 0.5em 1em;
+        border-bottom-left-radius: 5px;
+      }
+    }
+    .feature:not(.boxed) {
+      margin-bottom: 30px;
+    }
+  }
+}
+
+.bar {
+  .logo-area {
+    img {
+      height: 2.5em;
+    }
+    &.col-xs-3 {
+      margin-top: 6px;
+      a:hover {
+        text-decoration: none;
+      }
+    }
+  }
+
+  a.brand {
+    font-weight: 400;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  .bar__module i.socicon-messenger {
+    font-size: 10px;
+  }
+}
+
+.hero {
+  img {
+    width: 50%;
+  }
+  .feature-2 .feature__body {
+    width: 100%;
+    float: auto;
+  }
+  .btn {
+    margin-top: 1.5em;
+    color: black;
+    i {
+      color: inherit;
+      margin-right: 0.5em;
+    }
+    @media screen and (max-width: 560px) {
+      margin-left: 0 !important;
+    }
+  }
+}
+
+.cta-lottery {
+  background: @color-purple;
+  font-size: 1.25em;
+}
+
+a.disabled {
+  color: @color-primary-2;
+}
+
+.project-hero {
+  .meta span:not(:last-child) {
+    margin-right: 1em;
+    display: inline-block;
+  }
+  .btn {
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
+}
+
+.sponsors {
+  img {
+    border-radius: 5px;
+    margin-bottom: 2em;
+  }
+  .support {
+    margin-top: 2em;
+  }
+  @media screen and (max-width: 768px) {
+    img {
+      margin-bottom: 2em;
+    }
+  }
+}
+
+.project-main .desc p {
+  font-size: 1.25em;
+  line-height: 2em;
+}
+
+.valuable-skills * {
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+[data-overlay]:before{
+    background: @color-purple;
+}
+
+.team {
+  h2 {
+    margin-bottom: 2em;
+  }
+  a {
+    font-weight: normal;
+    color: inherit;
+  }
+  .image {
+    // height: 150px;
+    background-size: cover;
+    margin-bottom: 0.75em;
+  }
+}
+
+.about {
+  .ethics {
+    background: #f0f0f0;
+    margin-bottom: 3em;
+    padding: 2em;
+    border-radius: 5px;
+  }
+  ul li a {
+    color: inherit;
+    font-weight: normal;
+  }
+  ul li:not(:last-child) {
+    margin-bottom: 1em;
+  }
+  .pack {
+    display: inline-block;
+    font-weight: normal;
+  }
+  article .article__body blockquote {
+    text-align: left;
+  }
+  .sponsors,
+  .sponsors .container {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  .video {
+    margin: 4em 0;
+  }
+  .team-photo-fun {
+    margin-top: 5em;
+    padding: 0 1em;
+    img {
+      border-radius: 5px;
+    }
+  }
+}
+
+body[project="join"] .join p {
+  margin-top: 5em;
+  text-align: center;
+  font-size: 1.25em;
+}
+
+body[project="monthly"] .project-main .btn {
+  color: white;
+  margin-top: 0.5em;
+  &.disabled {
+    background: darkgrey;
+  }
+}
+
+.hardware .list {
+  border: none;
+  margin-top: 6em;
+  .feature h5 {
+    font-size: 1.25em;
+  }
+  .url {
+    margin-top: 1em;
+    color: white;
+  }
+  @media screen and (max-width: 768px) {
+    .feature img + .boxed {
+      text-align: center;
+    }
+  }
+}
+
+.schedule {
+  b {
+    margin-right: 1em;
+  }
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.project-past {
+  text-align: center;
+  color: white;
+  background: #002331;
+  padding: 1em;
+}
