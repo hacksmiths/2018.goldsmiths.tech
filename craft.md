@@ -17,19 +17,14 @@ address: RHB 306a<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: codeandcraft
 
 supporters:
-  - name: goldsmiths
   - name: doc
   - name: goldsu
   - name: codeclub
   - name: coderdojo
+  - name: alumni
 
 show_support_text: true
 
 ---
 
 {% include valuable-skills.html %}
-
-
-<!--
-Hacksmiths’ weekly Code & Craft workshops offer space and support to Goldsmiths students, from all departments, to work on their own tech projects, or to learn new skills and ask for help from their peers. We propose to take Code & Craft into the local community by visiting local schools, community centres and employment centres, with the aim of fostering a community of makers within the local area.
- -->

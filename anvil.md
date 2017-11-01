@@ -15,4 +15,7 @@ buttons:
     type: primary
   - name: Anvil Hack III Highlights
     url: https://storify.com/_phzn/anvilhackiii
+
+supporters:
+  - name: balsamiq
 ---

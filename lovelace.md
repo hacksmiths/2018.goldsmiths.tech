@@ -25,6 +25,7 @@ supporters:
   - name: goldsu
   - name: github
   - name: scale-factory
+  - name: balsamiq
 
 show_support_text: true
 
