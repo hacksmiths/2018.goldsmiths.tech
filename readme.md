@@ -1,22 +1,29 @@
+![](http://goldsmiths.tech/assets/img/logo-hacksmiths.svg)
 # Hacksmiths Website
 
-## Prereqs
+## First time setup
 
-You need Ruby installed
+You need Ruby installed. There's a guide [here](https://www.ruby-lang.org/en/documentation/installation/) which explains how to do this.
 
-## Get project running locally 
+Clone this repository with `git clone https://github.com/hacksmiths/goldsmiths.tech-jekyll`
 
-1. Clone repository to your computer with `git clone https://github.com/hacksmiths/goldsmiths.tech`
-2. `cd` into your repository
-3. `gem install jekyll jgd`
-4. `jekyll serve --watch`
+Install jekyll with `gem install jekyll`
+
+Every time you want to run the local server which is reactive to changes, just run `jekyll serve --watch`
+
+## Site folder structure
+
+To do
+
+## Creating new pages
+
+To do
 
 ## How to deploy
 
-1. Make sure you are in the right folder in your terminal
-2. `jgd`
-3. There is no 3
-
+1. Make sure the site is built with `jekyll b`
+2. Push a new commit and the updates will go list
+<!-- 
 ## How to add project pages
 
 1. Copy the `sci-fi.md` file and rename the copy to `your-project-name.md`
@@ -35,4 +42,4 @@ body[project="your-project-name"] {
 6. `git add .`
 7. `git commit -m "your message here"`
 8. `git push origin master`
-9. `jgd`
+9. `jgd` -->
