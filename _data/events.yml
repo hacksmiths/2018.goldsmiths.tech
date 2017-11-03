@@ -32,7 +32,12 @@
   date: November 16 2017
   url: /monthly
 
-- name: Sex Tech Hack II
+- name: Sex Tech Hack II - Discussions
+  line: A day of collaborative discussions around the hackathon themes.
+  date: November 24 2017
+  url: /sex
+
+- name: Sex Tech Hack II - Hackathon
   line: Looking at intimacy, sexuality and companionship with technology.
   date: November 25-26 2017
   url: /sex
@@ -41,6 +46,11 @@
   line: We run a center for the worldwide hack day aimed at beginners.
   date: December 2 2017
   url: https://localhackday.mlh.io/
+
+- name: Lovelace - December 2017
+  line: A social for women and non binary people interested in creative tech.
+  date: December 7 2017
+  url: /lovelace
 
 - name: Workshop - Storytelling
   line: Learn about the semantics of language through code.

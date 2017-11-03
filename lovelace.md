@@ -9,13 +9,26 @@ tagline: Network, create and share with friends.
 
 description: |
   <p>With a less than generous population of women and non-binary people in computing, it can sometimes feel that there is a lack of support and diversity within the industry. This event is for individuals who would like to help build a stronger community at goldsmiths, to share, create and learn.</p><p>We would like to ensure that everyone in computing has the opportunity to have an exciting and positive experience whilst studying or researching. Use this event to make friends, learn, and get inspired. We will have talented individuals speak about their careers and experiences as educators, researchers and creators.</p>
-  <div class="schedule">
-  <h3>Schedule for October 21 event</h3>
-  <p><b>12:00-12:45</b> Arrival & Introductions</p><p><b>13:00-13:30</b> Rebecca Fiebrink</p><p><b>13:30-13:45</b> Break</p><p><b>13:45-14:15</b> Amy Dickens</p><p><b>14:15-14:30</b> Break</p><p><b>14:30-15:00</b> Phoenix Perry</p><p><b>15:00-15:15</b> Break</p><p><b>15:15-16:00</b> Q&A Panel</p><p><b>16:00-17:00</b> Social & Snacks</p>
-  </div>
 
-date: October 21st 2017
-time: 12:00 - 17:00
+  <p><b>21 October.</b> During our first event, we welcome Rebecca Fiebrink, Amy Dickens and Phoenix Perry to talk to you. <br><a href="#" class="btn type--uppercase btn--primary disabled">Event ended</a></p>
+
+  <p><b>7 December.</b> More information about this evening event available soon. <br><a href="#" class="btn type--uppercase btn--primary disabled">Tickets available soon</a></p>
+
+  <!-- <div class="schedule">
+  <h3>Schedule for October 21 event</h3>
+  <p><b>12:00-12:45</b> Arrival & Introductions</p>
+  <p><b>13:00-13:30</b> Rebecca Fiebrink</p>
+  <p><b>13:30-13:45</b> Break</p>
+  <p><b>13:45-14:15</b> Amy Dickens</p>
+  <p><b>14:15-14:30</b> Break</p>
+  <p><b>14:30-15:00</b> Phoenix Perry</p>
+  <p><b>15:00-15:15</b> Break</p>
+  <p><b>15:15-16:00</b> Q&A Panel</p>
+  <p><b>16:00-17:00</b> Social & Snacks</p>
+  </div> -->
+
+date: Every two months
+time: In the evening
 address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: GSLovelace
 

@@ -198,11 +198,14 @@ body[project="join"] .join p {
   font-size: 1.25em;
 }
 
-body[project="monthly"] .project-main .btn {
-  color: white;
-  margin-top: 0.5em;
-  &.disabled {
-    background: darkgrey;
+body[project="monthly"],
+body[project="lovelace"] {
+  .project-main .btn {
+    color: white;
+    margin-top: 0.5em;
+    &.disabled {
+      background: darkgrey;
+    }
   }
 }
 
