@@ -19,6 +19,7 @@ hashtag: codeandcraft
 supporters:
   - name: doc
   - name: goldsu
+  - name: balsamiq
   - name: codeclub
   - name: coderdojo
   - name: alumni
