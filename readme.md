@@ -13,25 +13,46 @@ Every time you want to run the local server which is reactive to changes, just r
 
 ## Site folder structure
 
-To do
+
+* `_data/`
+    * `events.yml` -- data for the homepage
+    * `hardware.yml` -- data for the hardware lab page
+    * `team.yml` -- data for the team page
+* `includes/` -- this folder contains parts of site which are pulled into templates
+* `layouts/`
+    * `default.html` -- core HTML for every page
+    * `project.html` -- layout for project page
+    * `soon.html` -- minimal layout for project page
+* `assets/`
+    * `less/` -- contains our stylesheets which are compiled on the client
+        * `projects.less` -- this file contains project-specific color styling
+    * `img/`
+        * `hardware/` -- contains photos for hardware lab
+        * `partners/` -- contains photos for sponsor section of project layout
+        * `team/` -- contains photos for team page
+        * `projects/:name` -- contains assets for each project
+            * `hero.jpg` -- hero image for project
+            * `logo.svg` -- image for top of project page
+            * `og.png` -- share image for project
+* `docs/` -- this is our site output which is live on the site. Don't touch this as it gets automatically generated and updated.
+* `*.md` -- these are single pages on our site, which get compiled into .html files in /docs
 
 ## Creating new pages
 
-To do
+* Create a new .md file
+* Grab a similar page and copy it's contents
+    * `about.md` is good for a static page
+    * `ex-full.md` is good for a full project
+    * `ex-soon.md` is good for a project which needs a page, but isn't ready to have full information yet
+* Edit details
 
-## How to deploy
+### If it's a project page
 
-1. Make sure the site is built with `jekyll b`
-2. Push a new commit and the updates will go list
-<!-- 
-## How to add project pages
-
-1. Copy the `sci-fi.md` file and rename the copy to `your-project-name.md`
-2. Change all the details
-3. Make sure there is a logo and hero image in /assets/img/projects (the naming structure and formats must stay the same - name it after your `projectname`)
-4. If there are new supporters, make sure to add a tile for them in /assets/img/partners (size of the image must be the same - name it after your `projectname`)
-5. If you want a specific open graph image, put it in the image folder and update the .md file to reflect it's name
-6. Open /assets/less/projects.less and add a new block of code to change colors on this page like so: 
+* If you need to add new supporters please make sure the image is the correct size as per the template.
+* If you need to add new assets make sure the folder in `/assets/img/projects` is the same name as what you give the `projectname` property at the top of the page. The projectname value is how all of this gets puleed together from our templates.
+* If you have any first-time supporters, make sure the image block is the correct size, and ideally with a colour background. Once they're in, you can refer to them by name in the `supporters` yaml value.
+* If you want a specific sharing image - make sure to drop the image in the project's image folder and give the path to it in the `og` yaml value.
+* Open /assets/less/projects.less and add a new block of code to change colors on this page like so: 
 
 ```
 body[project="your-project-name"] {
@@ -39,7 +60,12 @@ body[project="your-project-name"] {
 }
 ```
 
-6. `git add .`
-7. `git commit -m "your message here"`
-8. `git push origin master`
-9. `jgd` -->
+## How to deploy
+
+Make sure the site is built with `jekyll b`
+
+Push a new commit and the updates will go live. As a reminder on how to do that:
+
+* `git add .`
+* `git commit -m "your message here"`
+* `git push origin master`
