@@ -51,16 +51,6 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
     </div>
 </section>
 
-<section class="text-center cta cta-4 space--xxs border--bottom bg--primary cta-lottery">
-    <a href="/join">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12"> <span>Join before the end of October to be entered into a raffle to win a beginners electronics kit!</span> </div>
-            </div>
-        </div>
-    </a>
-</section>
-
 <section class="events">
     <div class="container">
         <div class="row">
