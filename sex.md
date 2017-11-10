@@ -19,6 +19,8 @@ supporters:
   - name: doc
   - name: goldsu
   - name: samsung-internet
+  - name: mystery-vibe
+  - name: decoded-legal
 
 show_support_text: true
 
