@@ -30,19 +30,25 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
                     <div class="feature feature-2">
                         <div class="feature__body">
                             <h5>Weekly Code &amp; Craft</h5>
-                            <p>A friendly and supportive environment to play around with new ideas and get support. Wednesdays at 4-6pm from November 1.<br></p>
+                            <p>A friendly and supportive environment to play around with new ideas and get support. Suitable for all skill levels.<br></p>
                         </div>
                     </div>
                     <div class="feature feature-2">
                         <div class="feature__body">
                             <h5>Monthly talks &amp; workshops</h5>
-                            <p> A range of interesting content from students, staff and industry professionals. Check Facebook for announcements.</p>
+                            <p> A range of interesting content from students, staff and industry professionals. Suitable for complete beginners.</p>
                         </div>
                     </div>
                     <div class="feature feature-2">
                         <div class="feature__body">
                             <h5>Hackathons &amp; jams</h5>
-                            <p>Invention marathons which bring together people with varying skills to build awesome projects. Find out more below.</p>
+                            <p>Invention marathons which bring together people with varying skills to build awesome projects. Suitable for all skill levels.</p>
+                        </div>
+                    </div>
+                    <div class="feature feature-2">
+                        <div class="feature__body">
+                            <h5>Lovelace</h5>
+                            <p>A social event series for women and non binary people interested in technology at goldsmiths. Suitable for all skill levels.</p>
                         </div>
                     </div>
                 </div>
