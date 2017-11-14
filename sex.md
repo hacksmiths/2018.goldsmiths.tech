@@ -22,6 +22,7 @@ supporters:
   - name: mystery-vibe
   - name: decoded-legal
   - name: octopuss
+  - name: paul-clarke
 
 show_support_text: true
 
