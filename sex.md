@@ -23,6 +23,7 @@ supporters:
   - name: decoded-legal
   - name: octopuss
   - name: paul-clarke
+  - name: nethermind
 
 show_support_text: true
 
