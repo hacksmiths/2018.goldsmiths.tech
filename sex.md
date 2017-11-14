@@ -21,6 +21,7 @@ supporters:
   - name: samsung-internet
   - name: mystery-vibe
   - name: decoded-legal
+  - name: octopuss
 
 show_support_text: true
 
