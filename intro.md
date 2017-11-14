@@ -16,7 +16,7 @@
     #one h1 { margin-top: 2em; }
     #item h1 { font-size: 2em; font-weight: bold; }
     #pic img { width: 100%; }
-  </style>
+  </style> 
 </head>
 
 <body>
