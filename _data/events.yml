@@ -22,15 +22,16 @@
   url: /lovelace
   past: true
 
-- name: Code & Craft
-  line: Weekly space to play with technology, for everyone.
-  date: Every Wednesday from November 1
-  url: /craft
-
 - name: Workshop - Git
   line: A no-jargon introduction to open source culture and workflow.
   date: November 16 2017
   url: /monthly
+  past: true
+
+- name: Code & Craft
+  line: Weekly space to play with technology, for everyone.
+  date: Every Wednesday
+  url: /craft
 
 - name: Sex Tech Hack II - Discussions
   line: A day of collaborative discussions around the hackathon themes.
