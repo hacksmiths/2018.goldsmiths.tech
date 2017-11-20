@@ -18,6 +18,7 @@ supporters:
   - name: goldsmiths
   - name: doc
   - name: goldsu
+  - name: github
   - name: samsung-internet
   - name: mystery-vibe
   - name: decoded-legal
