@@ -20,11 +20,11 @@ description: |
   <p><b>13:00-13:45</b> Sex Tech Law, Data & Privacy - Neil Brown</p>
   <p><b>13:45-14:30</b> Sex Tech Law, Data & Privacy Discussion</p>
   <p><b>14:30-14:45</b> Toilet break</p>
-  <p><b>14:45-15:30</b> Psychology & Neuroscience - Andy Woods</p>
-  <p><b>15:30-16:15</b> Psychology & Neuroscience Discussion</p>
+  <p><b>14:45-15:30</b> Multisensory perception and neuroscience - Andy Woods</p>
+  <p><b>15:30-16:15</b> Multisensory perception and neuroscience Discussion</p>
   <p><b>16:15-16:30</b> Toilet break</p>
-  <p><b>16:30-16:45</b> Idea to Market, the MysteryVibe Story - Stephanie Alys </p>
-  <p><b>16:45-17:30</b> Idea to Market, the MysteryVibe Story Discussion</p>
+  <p><b>16:30-17:00</b> Idea to Market, the MysteryVibe Story - Stephanie Alys </p>
+  <p><b>17:00-17:30</b> Idea to Market, the MysteryVibe Story Discussion</p>
   <p><b>17:30 - Late?</b> Thank you, closing & pub</p>
   <br>
   </div>
