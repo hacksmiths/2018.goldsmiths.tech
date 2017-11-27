@@ -31,7 +31,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
         </div>
         <div class="text-block">
           <h5>Email address</h5>
-          <p><a href="mailto:hacksmiths@gold.ac.uk">hacksmiths@gold.ac.uk</a></p>
+          <p><a href="mailto:team@goldsmiths.tech">team@goldsmiths.tech</a></p>
         </div>
         <div class="text-block">
           <h5>Twitter</h5>
