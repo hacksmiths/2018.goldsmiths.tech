@@ -69,8 +69,8 @@ supporters:
 show_support_text: true
 
 buttons:
-  - name: Sponsorship Enquiries
-    url: /contact
+  - name: 2017 Highlights
+    url: https://storify.com/_phzn/sex-tech-hack-ii
   - name: 2016 Highlights
     url: https://storify.com/phazonoverload/sex-tech-hack-2016
 
