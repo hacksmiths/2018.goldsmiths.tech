@@ -209,19 +209,57 @@ body[project="lovelace"] {
   }
 }
 
-.hardware .list {
-  margin-top: 6em;
-  li.hardware-item {
-    padding: 1em;
-    margin-bottom: 3em;
-    img {
-      border-radius: 5px;
+.hardware-list {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  section {
+    padding: 2em;
+    border-radius: 5px;
+    border: 1px solid black;
+    h1 {
+      font-size: 2em;
+      font-weight: bold;
     }
     h2 {
       font-size: 1.25em;
+      font-weight: bold;
     }
-    a {
-      color: white;
+    * {
+      font-size: 1rem;
+    }
+    li {
+      list-style: circle;
+      margin-left: 1.25em;
+    }
+  }
+  .control {
+    border-color: #674EA7;
+    .boards {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  .components {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    @media screen and (max-width: 768px) {
+      grid-template-columns: 1fr;
+      grid-row-gap: 1em;
+    }
+    .sense {
+      border-color: #E69138;
+      padding: 2em;
+    }
+    .move {
+      border-color: #6AA84F;
+      padding: 2em !important;
+    }
+    .show {
+      border-color: #3C78D8;
+      padding: 2em !important;
     }
   }
 }
