@@ -237,6 +237,15 @@ body[project="lovelace"] {
     .boards {
       display: flex;
       justify-content: space-between;
+      @media screen and (max-width: 768px) {
+        display: block;
+        .board {
+          margin-bottom: 1em;
+          &.other {
+            margin-bottom: 0;
+          }
+        }
+      }
     }
   }
   .components {

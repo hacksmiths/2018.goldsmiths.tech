@@ -33,6 +33,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
             </ul>
           </div>
           <div class="board other">
+            <h2>Other</h2>
             <ul>
               <li>Micro:Bit</li>
               <li>Particle Photon</li>
