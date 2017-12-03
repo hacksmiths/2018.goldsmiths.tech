@@ -147,10 +147,36 @@ a.disabled {
     font-weight: normal;
     color: inherit;
   }
-  .image {
-    // height: 150px;
-    background-size: cover;
-    margin-bottom: 0.75em;
+  .grid-columns {
+    -moz-column-count: 4;
+    -webkit-column-count: 4;
+    column-count: 4;
+    -moz-column-gap: 1.5em;
+    -webkit-column-gap: 1.5em;
+    column-gap: 1.5em;
+    .person {
+      display: inline-block;
+      margin-bottom: 2em;
+      padding: 1em;
+      border: 1px solid #ECECEC;
+      border-radius: 5px;
+      img {
+        border-radius: 4px;
+      }
+      h5 {
+        margin-bottom: 1em;
+      }
+    }
+    @media screen and (max-width: 768px) {
+      -moz-column-count: 2;
+      -webkit-column-count: 2;
+      column-count: 2;
+    }
+    @media screen and (max-width: 600px) {
+      -moz-column-count: 1;
+      -webkit-column-count: 1;
+      column-count: 1;
+    }
   }
 }
 

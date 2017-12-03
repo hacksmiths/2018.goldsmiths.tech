@@ -15,7 +15,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
       </div>
       <div class="col-md-4">
         <div class="text-block">
-          <h5> Address</h5>
+          <h5>Address</h5>
           <p>Goldsmiths Students Union<br>Dixon Road<br>London<br>SE14 6NW<br></p>
         </div>
         <div class="text-block">

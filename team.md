@@ -11,23 +11,20 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
   <div class="container">
     <h1>Our team</h1>
     <h2>We're super friendly and happy to answer any questions you may have about Hacksmiths or our projects.</h2>
-    <div class="row">
+    <div class="grid-columns">
       {% for person in site.data.team %}
-        <div class="col-sm-3">
-          <div class="feature feature-8">
-            <img src="/assets/img/team/{{person.photo}}.jpg">
-            <h5>{{person.name}}</h5>
-            {% if person.role %}
-              <span>{{person.role}}</span>
-            {% else %}
-              <span>Committee Member</span>
-            {% endif %}
-            <br><a href="mailto:{{person.email}}">{{person.email}}</a>
-          </div>
+        <div class="person">
+          <img src="/assets/img/team/{{person.photo}}.jpg">
+          <h5>{{person.name}}</h5>
+          {% if person.role %}
+            <span>{{person.role}}</span>
+          {% else %}
+            <span>Committee Member</span>
+          {% endif %}
+          <br><a href="mailto:{{person.email}}">{{person.email}}</a>
         </div>
       {% endfor %}
     </div>
-    <p>Interested in being part of our team? We recruit new committee members in January.</p>
   </div>
 </section>
 
