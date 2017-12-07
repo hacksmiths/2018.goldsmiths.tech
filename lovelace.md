@@ -15,7 +15,7 @@ description: |
   <p><b>7 December.</b> We are looking for women and non-binary people who would like to share a short presentation about a topic related to tech or being a minority in tech. We would love to hear from you - no experience is needed, this is a safe place where you can practice! For others, come along and support each other, learn something new, and have an enjoyable evening of networking.<br><a href="https://www.eventbrite.co.uk/e/lovelace-december-2017-tickets-39843197075" class="btn type--uppercase btn--primary">Free tickets</a></p>
 
   <div class="schedule">
-  <h3>Schedule for October 21 event</h3>
+  <h3>Schedule for December 7 event</h3>
   <p><b>17:00-17:15</b> Arrival & Check In</p>
   <p><b>17:15-18:00</b> Icebreaker activities</p>
   <p><b>18:00-19:15</b> Talks & games</p>
