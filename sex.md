@@ -8,7 +8,19 @@ one_line: A hackathon exploring companionship, intimacy & sexuality.
 tagline: Should Taboo Stifle Innovation?
 
 description: |
-  <p>Sex Tech Hack II invited over 50 hackers from around the world to build exciting new sex technologies. The challenges for this year were 'intimacy', 'accessibility' and 'personalisation'. There were 17 projects built, and it was fantastic.
+  <p>Sex Tech Hack II invited over 50 hackers from around the world to build exciting new sex technologies. The challenges for this year were 'intimacy', 'accessibility' and 'personalisation'. There were 17 projects built, and it was fantastic.</p>
+
+  <p>Thank you for once again joining us for Sex Tech Hack. In 2017, we invited 50 hackers to our home at St James Hatcham Church at Goldsmiths, University of London, to think about and build new ways of approaching sex tech and play. For two days, developers, designers, researchers, and industry experts built projects against our three challenges 'intimacy', 'accessibility' and 'personalisation'.</p>
+
+  <ul class="bullets desc">
+  <li><a href="https://storify.com/_phzn/sex-tech-hack-ii>Sex Tech Hack II Highlights</a></li>
+  <li><a href="https://www.flickr.com/photos/paul_clarke/sets/72157690131222235/">Photos from event by Paul Clarke</a></li>
+  <li><a href="https://www.theguardian.com/science/brain-flapping/2017/dec/01/its-a-sex-robot-but-not-as-you-know-it-exploring-the-frontiers-of-erotic-technology">The Guardian - It's a sex robot, but not as you know it: exploring the frontiers of erotic technology </a></li>
+  <li><a href="http://www.makery.info/en/2017/11/28/au-sex-tech-hack-plus-vous-criez-plus-ca-vibre">Makery - At Sex Tech Hack, the more you moan, the more it vibrates</a></li>
+  <li><a href="https://medium.com/@startuple/sex-tech-hack-ii-a7ee7af5c2a3">Startuple - Sex Tech Hack II</a></li>
+  </ul>
+
+
   <!--<p>Applications for the hackathon have now closed.</p><p>In 2016, we ran the first Sex Tech Hack in Europe. Over 50 attendees from a range of backgrounds joined us for two days of learning, building and sharing (ideas, that is). We had coverage from <a href="https://www.newscientist.com/article/mg23331130-100-how-to-build-better-sex-robots-stop-making-them-look-human">New Scientist</a>, <a href="https://www.girlonthenet.com/2016/12/21/amazing-inventions-from-the-goldsmiths-sex-tech-hack/">Girl on the Net</a>, and <a href="http://www.makery.info/en/2016/12/20/au-premier-sex-tech-hack-un-hackathon-sur-la-sexualite-a-londres/">Makery</a>. You can check out all 14 project videos on <a href="https://www.youtube.com/playlist?list=PLDmeXp90KI9leIRVQGsrOZvFXVo28F8wO">YouTube</a>.</p>
   <p>In 2017, we're going to make it bigger and better than before - inviting more hackers from around the world to build exciting new sex technologies. The challenges for this year are 'intimacy', 'accessibility' and 'personalisation'.</p>
   <p>On Friday November 24, we'll also be running a day-long conference to encourage discussion around these themes. Free tickets are available <a href="https://www.eventbrite.co.uk/e/sex-tech-hack-ii-discussion-day-tickets-39365838282">here</a>.</p>
@@ -66,7 +78,7 @@ supporters:
   - name: paul-clarke
   - name: nethermind
 
-show_support_text: true
+# show_support_text: true
 
 buttons:
   - name: 2017 Highlights

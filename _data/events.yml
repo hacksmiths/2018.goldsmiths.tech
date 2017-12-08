@@ -52,15 +52,16 @@
   url: https://www.facebook.com/events/124651134978556/
   past: true
 
-- name: Code & Craft
-  line: Weekly space to play with technology, for everyone.
-  date: Every Wednesday
-  url: /craft
-
 - name: Lovelace - December 2017
   line: A social for women and non binary people interested in creative tech.
   date: December 7 2017
   url: /lovelace
+  past: true
+
+- name: Code & Craft
+  line: Weekly space to play with technology, for everyone.
+  date: Every Wednesday
+  url: /craft
 
 - name: Workshop - Storytelling
   line: Learn about the semantics of language through code.
