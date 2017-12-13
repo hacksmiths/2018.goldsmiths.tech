@@ -22,6 +22,12 @@
   url: /lovelace
   past: true
 
+- name: Trip - Aston Hack
+  line: A trip to the student hackathon at Aston University, Birmingham.
+  date: November 11-12 2018
+  url: https://www.facebook.com/events/276338306218200
+  past: true
+
 - name: Workshop - Git
   line: A no-jargon introduction to open source culture and workflow.
   date: November 16 2017
@@ -68,6 +74,11 @@
   line: Weekly space to play with technology, for everyone.
   date: Every Wednesday
   url: /craft
+
+- name: Trip - Royal Hackaway
+  line: A trip to the student hackathon at Royal Holloway, UoL.
+  date: January 13-14 2018
+  url: https://www.facebook.com/events/299636683866936/
 
 - name: Global Game Jam 2018
   line: Get together and create games together in one weekend.
