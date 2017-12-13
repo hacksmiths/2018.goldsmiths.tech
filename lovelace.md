@@ -8,11 +8,13 @@ one_line: A series of social events for women and non binary people interested i
 tagline: Network, create and share with friends.
 
 description: |
-  <p>With a less than generous population of women and non-binary people in computing, it can sometimes feel that there is a lack of support and diversity within the industry. This event is for individuals who would like to help build a stronger community at goldsmiths, to share, create and learn.</p><p>We would like to ensure that everyone in computing has the opportunity to have an exciting and positive experience whilst studying or researching. Use this event to make friends, learn, and get inspired. We will have talented individuals speak about their careers and experiences as educators, researchers and creators.</p>
+  <p>With a less than generous population of women and non-binary people in computing, it can sometimes feel that there is a lack of support and diversity within the industry. This event is for individuals who would like to help build a stronger community at goldsmiths, to share, create and learn.</p><p>We would like to ensure that everyone in computing has the opportunity to have an exciting and positive experience whilst studying or researching. Use this event to make friends, learn, and get inspired. We will have talented individuals speak about their careers and experiences as educators, researchers and creators.</p><p>We are looking for women and non-binary people who would like to share a short presentation about a topic related to tech or being a minority in tech. We would love to hear from you - no experience is needed, this is a safe place where you can practice! For others, come along and support each other, learn something new, and have an enjoyable evening of networking.</p>
 
   <p><b>21 October.</b> During our first event, we welcome Rebecca Fiebrink, Amy Dickens and Phoenix Perry to talk to you. <br><a href="#" class="btn type--uppercase btn--primary disabled">Event ended</a></p>
-
-  <p><b>7 December.</b> We are looking for women and non-binary people who would like to share a short presentation about a topic related to tech or being a minority in tech. We would love to hear from you - no experience is needed, this is a safe place where you can practice! For others, come along and support each other, learn something new, and have an enjoyable evening of networking.<br><a href="#" class="btn type--uppercase btn--primary disabled">Event ended</a></p>
+  <p><b>7 December.</b> In December, we welcomed Jo, Gwendolin, Anna, Harley and Erica to speak about a range of topics interesting to them.<br><a href="#" class="btn type--uppercase btn--primary disabled">Event ended</a></p>
+  <p><b>2 February.</b><br><a href="#" class="btn type--uppercase btn--primary disabled">Tickets coming soon</a></p>
+  <p><b>15 March.</b><br><a href="#" class="btn type--uppercase btn--primary disabled">Tickets coming soon</a></p>
+  <p><b>1 April.</b><br><a href="#" class="btn type--uppercase btn--primary disabled">Tickets coming soon</a></p>
 
   <!--<div class="schedule">
   <h3>Schedule for December 7 event</h3>

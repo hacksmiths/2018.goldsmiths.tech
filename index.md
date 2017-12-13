@@ -60,23 +60,42 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
 <section class="events">
     <div class="container">
         <div class="row">
-            <h2>Our events</h2>
+            <h2>Upcoming events</h2>
+            <h3 class="cal-cont"><a class="btn btn--sm type--uppercase btn--primary cal" href="https://calendar.google.com/calendar/embed?src=jellybabi.es_l70qvq3qcvbe4sci1pskevfu4c%40group.calendar.google.com&ctz=Europe/London">Full calendar</a></h3>
             {% for event in site.data.events %}
-                <div class="col-sm-4 event-single">
-                    <a {% unless event.url == "undefined" %} href="{{event.url}}" {% endunless %}>
-                        <div class="feature feature-1">
-                            <div class="feature__body boxed boxed--border">
-                                {% if event.past %}<span>Past</span>{% endif %}
-                                <h5>{{event.name}}</h5>
-                                <p>{{event.line}}</p>
-                                <small>{{event.date}}</small>
+                {% unless event.past %}
+                    <div class="col-sm-4 event-single">
+                        <a {% unless event.url == "undefined" %} href="{{event.url}}" {% endunless %}>
+                            <div class="feature feature-1">
+                                <div class="feature__body boxed boxed--border">
+                                    {% if event.past %}<span>Past</span>{% endif %}
+                                    <h5>{{event.name}}</h5>
+                                    <p>{{event.line}}</p>
+                                    <small>{{event.date}}</small>
+                                </div>
                             </div>
-                        </div>
-                    </a>
-                </div>
+                        </a>
+                    </div>
+                {% endunless %}
             {% endfor %}
         </div>
-        <h3><a href="https://calendar.google.com/calendar/embed?src=jellybabi.es_l70qvq3qcvbe4sci1pskevfu4c%40group.calendar.google.com&ctz=Europe/London">Click here for a full calendar which you can import to your own apps.</a></h3>
+        <div class="row">
+            <h2>Past events this year</h2>
+            {% for event in site.data.events %}
+                {% if event.past %}
+                    <div class="col-sm-4 event-single">
+                        <a {% unless event.url == "undefined" %} href="{{event.url}}" {% endunless %}>
+                            <div class="feature feature-1">
+                                <div class="feature__body boxed boxed--border">
+                                    <h5>{{event.name}}</h5>
+                                    <small>{{event.date}}</small>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
     </div>
 </section>
 

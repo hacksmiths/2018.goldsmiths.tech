@@ -58,22 +58,23 @@
   url: /lovelace
   past: true
 
+- name: Workshop - Storytelling
+  line: Learn about the semantics of language through code.
+  date: December 8 2017
+  url: /monthly
+  past: true
+
 - name: Code & Craft
   line: Weekly space to play with technology, for everyone.
   date: Every Wednesday
   url: /craft
 
-- name: Workshop - Storytelling
-  line: Learn about the semantics of language through code.
-  date: December 8 2017
-  url: /monthly
-
 - name: Global Game Jam 2018
-  line: Build interactive playable experiences for both digital and tabletop formats.
+  line: Get together and create games together in one weekend.
   date: January 26-28 2018
   url: /game
 
-- name: Lovelace - February 2017
+- name: Lovelace - February 2018
   line: A social for women and non binary people interested in creative tech.
   date: February 2 2017
   url: /lovelace
@@ -83,7 +84,17 @@
   date: 24-25 February 2018
   url: /anvil
 
+- name: Lovelace - March 2018
+  line: A social for women and non binary people interested in creative tech.
+  date: March 15 2018
+  url: /lovelace
+
 - name: Music Hack Day London
   line: Experiment with music and develop ideas for it's future.
   date: 7-8 April 2018
   url: /music
+
+- name: Lovelace - May 2018
+  line: A social for women and non binary people interested in creative tech.
+  date: May 1 2018
+  url: /lovelace
