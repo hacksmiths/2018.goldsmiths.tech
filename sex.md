@@ -13,11 +13,10 @@ description: |
   <p>Thank you for once again joining us for Sex Tech Hack. In 2017, we invited 50 hackers to our home at St James Hatcham Church at Goldsmiths, University of London, to think about and build new ways of approaching sex tech and play. For two days, developers, designers, researchers, and industry experts built projects against our three challenges 'intimacy', 'accessibility' and 'personalisation'.</p>
 
   <ul class="bullets desc">
-  <li><a href="https://storify.com/_phzn/sex-tech-hack-ii>Sex Tech Hack II Highlights</a></li>
+  <li><a href="https://storify.com/_phzn/sex-tech-hack-ii">Sex Tech Hack II Highlights</a></li>
   <li><a href="https://www.flickr.com/photos/paul_clarke/sets/72157690131222235/">Photos from event by Paul Clarke</a></li>
   <li><a href="https://www.theguardian.com/science/brain-flapping/2017/dec/01/its-a-sex-robot-but-not-as-you-know-it-exploring-the-frontiers-of-erotic-technology">The Guardian - It's a sex robot, but not as you know it: exploring the frontiers of erotic technology </a></li>
   <li><a href="http://www.makery.info/en/2017/11/28/au-sex-tech-hack-plus-vous-criez-plus-ca-vibre">Makery - At Sex Tech Hack, the more you moan, the more it vibrates</a></li>
-  <li><a href="https://medium.com/@startuple/sex-tech-hack-ii-a7ee7af5c2a3">Startuple - Sex Tech Hack II</a></li>
   </ul>
 
 
