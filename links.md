@@ -46,6 +46,10 @@ links:
     desc: 326
     url: #
 
+  - name: Anvil Hack IV and Music Hack Day Prospectus
+    desc: Sponsorhsip decl
+    url: http://bit.ly/hacksmiths18
+
 ---
 
 <section class="internal-links">
