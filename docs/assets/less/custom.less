@@ -139,6 +139,24 @@ a.disabled {
     background: @color-purple;
 }
 
+.highlights {
+  padding-bottom: 0;
+  .row {
+    -moz-column-count: 4;
+    -webkit-column-count: 4;
+    column-count: 4;
+    -moz-column-gap: 1.5em;
+    -webkit-column-gap: 1.5em;
+    column-gap: 1.5em;
+    img {
+      border-radius: 5px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    display: none;
+  }
+}
+
 .team {
   h2 {
     margin-bottom: 2em;
