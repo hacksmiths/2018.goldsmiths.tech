@@ -8878,6 +8878,9 @@ footer.footer-7 {
 .bar .bar__module i.socicon-messenger {
   font-size: 10px;
 }
+.hero canvas {
+  display: none;
+}
 .hero img {
   width: 50%;
 }
@@ -8904,6 +8907,12 @@ footer.footer-7 {
 }
 a.disabled {
   color: #465773;
+}
+.project-hero {
+  background: #252525 !important;
+}
+.project-hero .background-image-holder {
+  opacity: 0.2 !important;
 }
 .project-hero .meta span:not(:last-child) {
   margin-right: 1em;
@@ -9001,7 +9010,7 @@ a.disabled {
 }
 .about .ethics {
   background: #f0f0f0;
-  margin-bottom: 3em;
+  margin-bottom: 0em;
   padding: 2em;
   border-radius: 5px;
 }
@@ -9023,9 +9032,6 @@ a.disabled {
 .about .sponsors .container {
   margin-bottom: 0;
   padding-bottom: 0;
-}
-.about .video {
-  margin: 4em 0;
 }
 .about .team-photo-fun {
   margin-top: 5em;

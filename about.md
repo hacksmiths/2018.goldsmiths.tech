@@ -42,15 +42,6 @@ supporters:
                 <li><b>We can change the world.</b> With the above five ethics, we can use the power we hold to really impact people's lives for the better.</li>
               </ul>
             </div>
-            <div class="video">
-              <div class="video-cover border--round">
-                <div class="background-image-holder" style="background: url(/assets/img/low-poly-people.png); opacity: 1;">
-                    <img alt="image" src="/assets/img/low-poly-people.png">
-                </div>
-                <div class="video-play-icon"></div>
-                <iframe data-src="https://www.youtube.com/embed/pkHNc2wiNxI?autoplay=1" allowfullscreen="allowfullscreen"></iframe>
-              </div>
-            </div>
           </div>
         </article>
         {% include project-supporters.html %}

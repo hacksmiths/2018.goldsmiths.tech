@@ -3,13 +3,17 @@
 
 ## First time setup
 
-You need Ruby installed. There's a guide [here](https://www.ruby-lang.org/en/documentation/installation/) which explains how to do this.
+You need Ruby and Node.js installed. There's a guide for Ruby [here](https://www.ruby-lang.org/en/documentation/installation/), and a download for Node.js [here](https://nodejs.org/en/download/).
 
 Clone this repository with `git clone https://github.com/hacksmiths/goldsmiths.tech-jekyll`
 
 Install jekyll with `gem install jekyll`
 
+Install our gulp dependendies with `npm install gulp gulp-less gulp-csscomb gulp-uncss gulp-clean-css`
+
 Every time you want to run the local server which is reactive to changes, just run `jekyll serve --watch`
+
+If you've made styling changes, run our Gulp task with `gulp css`
 
 ## Site folder structure
 
@@ -62,10 +66,10 @@ body[project="your-project-name"] {
 
 ## How to deploy
 
-Make sure the site is built with `jekyll b`
-
 Push a new commit and the updates will go live. As a reminder on how to do that:
 
+* `gulp css`
+* `jekyll build`
 * `git add .`
 * `git commit -m "your message here"`
 * `git push origin master`

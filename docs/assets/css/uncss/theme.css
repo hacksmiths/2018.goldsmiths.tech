@@ -545,105 +545,6 @@ select::ms-expand
 /**! 23. Parallax **/
 /**! 24. Notifications **/
 /**! 25. Video **/
-iframe
-{
-    width: 100%;
-    min-height: 350px;
-
-    border: none;
-}
-@media all and (max-width: 767px)
-{
-    iframe
-    {
-        min-height: 220px;
-    }
-}
-.video-cover
-{
-    position: relative;
-}
-.video-cover iframe
-{
-    background: #252525;
-}
-.video-cover .background-image-holder
-{
-    z-index: 3;
-}
-.video-cover .video-play-icon
-{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-
-    -webkit-transform: translate3d(-50%, -50%, 0);
-            transform: translate3d(-50%, -50%, 0);
-}
-.video-cover .video-play-icon,
-.video-cover .background-image-holder
-{
-    -webkit-transition: .3s linear;
-       -moz-transition: .3s linear;
-            transition: .3s linear;
-}
-.video-play-icon
-{
-    position: relative;
-    z-index: 4;
-
-    display: inline-block;
-
-    width: 7.42857143em;
-    height: 7.42857143em;
-
-    cursor: pointer;
-
-    border: 2px solid #fff;
-    border-radius: 50%;
-    background: #fff;
-}
-.video-play-icon:before
-{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-
-    width: 0;
-    height: 0;
-    margin-top: -5px;
-    margin-left: -4px;
-
-    content: '';
-
-    border-width: 6px 0 6px 12px;
-    border-style: solid;
-    border-color: transparent transparent transparent #fff;
-    border-color: transparent transparent transparent #808080;
-}
-@media all and (max-width: 767px)
-{
-    .video-play-icon
-    {
-        width: 4.95238095em;
-        height: 4.95238095em;
-    }
-}
-div[class*='col-'][class*='-10'] .video-cover iframe
-{
-    min-height: 450px;
-}
-div[class*='col-'][class*='-8'] .video-cover iframe
-{
-    min-height: 400px;
-}
-@media all and (max-width: 767px)
-{
-    div[class*='col-'] .video-cover iframe
-    {
-        min-height: 220px !important;
-    }
-}
 /**! 26. Colors **/
 body
 {
@@ -819,18 +720,6 @@ footer.space--xs
 /**! 40. Alerts **/
 /**! 41. Theme Overrides **/
 /*! -- Stack Customizers -- */
-.border--round
-{
-    border-radius: 6px;
-}
-.border--round:before
-{
-    border-radius: 6px;
-}
-.border--round .background-image-holder
-{
-    border-radius: 6px;
-}
 /*! -- Stack Helpers -- */
 .container .container
 {
@@ -1343,37 +1232,6 @@ img:last-child
     }
 }
 /*! -- Stack Videos -- */
-.video-play-icon:before
-{
-    margin-top: -3px;
-
-    border-color: transparent transparent transparent #252525;
-}
-.video-cover
-{
-    background: #252525;
-}
-.video-cover.border--round
-{
-    overflow: hidden;
-}
-.video-cover.border--round iframe
-{
-    border-radius: 6px;
-}
-.video-cover .video-play-icon
-{
-    -webkit-transition: .2s ease-out;
-       -moz-transition: .2s ease-out;
-            transition: .2s ease-out;
-}
-.video-cover .video-play-icon:hover
-{
-    -webkit-transform: translate3d(-50%, -52%, 0);
-            transform: translate3d(-50%, -52%, 0);
-
-    box-shadow: 0 23px 40px rgba(0, 0, 0, .2);
-}
 /*! -- Stack Modals -- */
 /*! -- Stack Notifications -- */
 /*! -- Stack Loader -- */
@@ -1418,9 +1276,7 @@ article .article__title h1
 {
     margin-bottom: .29545454545455em;
 }
-article .article__body img,
-article .article__body iframe,
-article .article__body .video-cover
+article .article__body img
 {
     border-radius: 6px;
 }
@@ -1567,6 +1423,14 @@ a.disabled
 {
     color: #465773;
 }
+.project-hero
+{
+    background: #252525 !important;
+}
+.project-hero .background-image-holder
+{
+    opacity: .2 !important;
+}
 .project-hero .meta span:not(:last-child)
 {
     display: inline-block;
@@ -1692,7 +1556,7 @@ a.disabled
 }
 .about .ethics
 {
-    margin-bottom: 3em;
+    margin-bottom: 0;
     padding: 2em;
 
     border-radius: 5px;
@@ -1707,10 +1571,6 @@ a.disabled
 {
     margin-bottom: 0;
     padding-bottom: 0;
-}
-.about .video
-{
-    margin: 4em 0;
 }
 .about .team-photo-fun
 {

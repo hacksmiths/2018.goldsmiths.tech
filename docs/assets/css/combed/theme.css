@@ -11820,6 +11820,10 @@ footer.footer-7
 {
     font-size: 10px;
 }
+.hero canvas
+{
+    display: none;
+}
 .hero img
 {
     width: 50%;
@@ -11858,6 +11862,14 @@ footer.footer-7
 a.disabled
 {
     color: #465773;
+}
+.project-hero
+{
+    background: #252525 !important;
+}
+.project-hero .background-image-holder
+{
+    opacity: .2 !important;
 }
 .project-hero .meta span:not(:last-child)
 {
@@ -11984,7 +11996,7 @@ a.disabled
 }
 .about .ethics
 {
-    margin-bottom: 3em;
+    margin-bottom: 0;
     padding: 2em;
 
     border-radius: 5px;
@@ -12015,10 +12027,6 @@ a.disabled
 {
     margin-bottom: 0;
     padding-bottom: 0;
-}
-.about .video
-{
-    margin: 4em 0;
 }
 .about .team-photo-fun
 {

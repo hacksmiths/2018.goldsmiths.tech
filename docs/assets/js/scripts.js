@@ -493,8 +493,13 @@ mr = (function (mr, $, window, document){
 
 	    $('.background-image-holder').each(function() {
 	        var imgSrc = $(this).children('img').attr('src');
-	        $(this).css('background', 'url("' + imgSrc + '")').css('background-position', 'initial').css('opacity','1');
-	    });
+            $(this).css('background', 'url("' + imgSrc + '")').css('background-position', 'initial').css('opacity','1');
+        });
+
+        $('.project-hero').each(function() {
+            $(this).css('background', '#252525');
+            $(this).children('.background-image-holder').css('opacity', '0.25');
+        });
     };
 
     mr.backgrounds = {
