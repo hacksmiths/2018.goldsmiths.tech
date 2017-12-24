@@ -13,7 +13,7 @@ Install our gulp dependendies with `npm install gulp gulp-less gulp-csscomb gulp
 
 Every time you want to run the local server which is reactive to changes, just run `jekyll serve --watch`
 
-If you've made styling changes, run our Gulp task with `gulp css`
+You should also run, in another terminal, `gulp` to compile stylesheets on-the-fly.
 
 ## Site folder structure
 
@@ -68,7 +68,6 @@ body[project="your-project-name"] {
 
 Push a new commit and the updates will go live. As a reminder on how to do that:
 
-* `gulp css`
 * `jekyll build`
 * `git add .`
 * `git commit -m "your message here"`

@@ -38,3 +38,7 @@ gulp.task('minify-css', ['uncss'], function () {
 
 // Run all the tasks above in the following fixed sequence
 gulp.task('css', ['less', 'styles', 'uncss', 'minify-css']);
+
+gulp.task('default', function () {
+  gulp.watch('./assets/less/*.less', ['css']);
+});
