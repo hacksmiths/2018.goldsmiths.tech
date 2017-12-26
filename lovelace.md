@@ -39,6 +39,11 @@ supporters:
 
 show_support_text: true
 
+buttons:
+  - name: Facebook Community
+    type: primary
+    url: https://www.facebook.com/groups/177498449654944/
+
 ---
 
 <hr>
