@@ -85,15 +85,25 @@
   date: January 15 2018
   url: https://www.facebook.com/events/136640587023638/
 
+- name: Psychology x Tech Talk - Jan
+  line: Inspiring talks at the intersection of Psychology & Tech.
+  date: January 25 2018
+  url: /monthly
+
 - name: Global Game Jam 2018
   line: Get together and create games together in one weekend.
   date: January 26-28 2018
   url: /game
 
-- name: Lovelace - February 2018
+- name: Lovelace - February
   line: A social for women and non binary people interested in creative tech.
   date: February 2 2017
   url: /lovelace
+
+- name: Psychology x Tech Talk - Feb
+  line: Inspiring talks at the intersection of Psychology & Tech.
+  date: February 15 2018
+  url: /monthly
 
 - name: Social Hacakthon 2018
   line: Exploring various volunteering themes to create impactful projects.
@@ -105,17 +115,22 @@
   date: 24-25 February 2018
   url: /anvil
 
-- name: Lovelace - March 2018
+- name: Lovelace - March
   line: A social for women and non binary people interested in creative tech.
   date: March 15 2018
   url: /lovelace
+
+- name: Psychology x Tech Talk - March
+  line: Inspiring talks at the intersection of Psychology & Tech.
+  date: March 23 2018
+  url: /monthly
 
 - name: Music Hack Day London
   line: Experiment with music and develop ideas for it's future.
   date: 7-8 April 2018
   url: /music
 
-- name: Lovelace - May 2018
+- name: Lovelace - May
   line: A social for women and non binary people interested in creative tech.
   date: May 1 2018
   url: /lovelace
