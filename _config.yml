@@ -1,2 +1,12 @@
+---
+title: Goldsmiths.Tech Jekyll
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Hacksmiths - Goldsmiths Tech Society
 destination: docs

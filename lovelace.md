@@ -1,12 +1,12 @@
 ---
+title: Lovelace
+date: 1970-01-01 00:00:00 Z
 layout: project
 projectname: lovelace
 og: projects/lovelace/og.png
-
-title: Lovelace
-one_line: A series of social events for women and non binary people interested in tech.
+one_line: A series of social events for women and non binary people interested in
+  tech.
 tagline: Network, create and share with friends.
-
 description: |
   <p>With a less than generous population of women and non-binary people in computing, it can sometimes feel that there is a lack of support and diversity within the industry. This event is for individuals who would like to help build a stronger community at goldsmiths, to share, create and learn.</p><p>We would like to ensure that everyone in computing has the opportunity to have an exciting and positive experience whilst studying or researching. Use this event to make friends, learn, and get inspired. We will have talented individuals speak about their careers and experiences as educators, researchers and creators.</p><p>We are looking for women and non-binary people who would like to share a short presentation about a topic related to tech or being a minority in tech. We would love to hear from you - no experience is needed, this is a safe place where you can practice! For others, come along and support each other, learn something new, and have an enjoyable evening of networking.</p>
 
@@ -23,27 +23,21 @@ description: |
   <p><b>18:00-19:15</b> Talks & games</p>
   <p><b>19:30-20:00</b> Networking & snacks</p>
   </div>-->
-
-date: Every two months
 time: 5-8pm
 address: Different room for each event<br>Goldsmiths, University of London
 hashtag: GSLovelace
-
 supporters:
-  - name: goldsmiths
-  - name: doc
-  - name: goldsu
-  - name: github
-  - name: scale-factory
-  - name: balsamiq
-
+- name: goldsmiths
+- name: doc
+- name: goldsu
+- name: github
+- name: scale-factory
+- name: balsamiq
 show_support_text: true
-
 buttons:
-  - name: Facebook Community
-    type: primary
-    url: https://www.facebook.com/groups/177498449654944/
-
+- name: Facebook Community
+  type: primary
+  url: https://www.facebook.com/groups/177498449654944/
 ---
 
 <hr>

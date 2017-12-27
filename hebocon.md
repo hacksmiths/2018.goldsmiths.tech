@@ -1,32 +1,30 @@
 ---
+title: Hebocon London 2017
+date: 2017-10-04 00:00:00 Z
 past: true
-
 layout: project
 projectname: hebocon
 og: projects/hebocon/og.png
-
-title: Hebocon London 2017
-one_line: Learn basic electronics to build a crappy robot and fight in a crappy Robot Wars style battle! Absolutely no skill needed.
+one_line: Learn basic electronics to build a crappy robot and fight in a crappy Robot
+  Wars style battle! Absolutely no skill needed.
 tagline: Anyone can build a robot...
-
-description: <p>Hebocon is Robot Wars for those who are not technically gifted. Crappy robots that can just barely move will somehow manage to engage in odd, awkward battles. Bring along a robot or just come and watch.</p><p>Last year we ran London's first Hebocon, and now we're back for another!</p><p>We'll be providing a beginner-level electronics workshop and basic kit required, but feel free to bring your own or additional props (lamps, balls, robot toy dogs etc).
-
-date: Wed Oct 4th 2017
+description: "<p>Hebocon is Robot Wars for those who are not technically gifted. Crappy
+  robots that can just barely move will somehow manage to engage in odd, awkward battles.
+  Bring along a robot or just come and watch.</p><p>Last year we ran London's first
+  Hebocon, and now we're back for another!</p><p>We'll be providing a beginner-level
+  electronics workshop and basic kit required, but feel free to bring your own or
+  additional props (lamps, balls, robot toy dogs etc)."
 time: 16:00 - 19:00
 address: RHB 304<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
 hashtag: HeboconLdn
-
 buttons:
-  - name: What is Hebocon (video)
-    url: https://www.youtube.com/watch?v=46ivFpsmEVQ
-
+- name: What is Hebocon (video)
+  url: https://www.youtube.com/watch?v=46ivFpsmEVQ
 show_support_text: true
-
 supporters:
-  - name: goldsmiths
-  - name: doc
-  - name: goldsu
-
+- name: goldsmiths
+- name: doc
+- name: goldsu
 ---
 
 <hr>

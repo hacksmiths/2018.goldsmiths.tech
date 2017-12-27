@@ -1,34 +1,39 @@
 ---
+title: Global Game Jam 2018
+date: -0028-01-26 00:00:00 Z
 layout: project
 projectname: game
 og: projects/game/og.png
-
-title: Global Game Jam 2018
-one_line: Spend a weekend building interactive playable experiences - both digital and tabletop. You'll get support from mentors and take part in a friendly show & tell.
-tagline: Get together and create games in one weekend at Goldsmiths, University of London. 
-
-date: January 26-28 2018
+one_line: Spend a weekend building interactive playable experiences - both digital
+  and tabletop. You'll get support from mentors and take part in a friendly show &
+  tell.
+tagline: Get together and create games in one weekend at Goldsmiths, University of
+  London.
 hashtag: GlobalGameJam
 time: 12:00 Friday - 15:00 Sunday
-address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
-
-description: <p>At Global Game Jam we gather game developers, designers, and interactive storytellers to build fun games over the course of the weekend focussed around a secret theme released at the start of the event.</p><p>We are here to enable you to build your ideas - whether they're tabletop games, physical computing projects, choose-your-own-adventre text games, or something more complex.</p><p>You'll have access to our new <a href="/hardware">Hardware Lab</a> as well as a new 'play' kit which contains lots of tools for prototyping tabletop games (such as cards, counters and meeples).</p><p>Whatever your skil level, Global Game Jam at Goldsmiths is accessible to you.</p>
-
+address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14
+  6AD
+description: <p>At Global Game Jam we gather game developers, designers, and interactive
+  storytellers to build fun games over the course of the weekend focussed around a
+  secret theme released at the start of the event.</p><p>We are here to enable you
+  to build your ideas - whether they're tabletop games, physical computing projects,
+  choose-your-own-adventre text games, or something more complex.</p><p>You'll have
+  access to our new <a href="/hardware">Hardware Lab</a> as well as a new 'play' kit
+  which contains lots of tools for prototyping tabletop games (such as cards, counters
+  and meeples).</p><p>Whatever your skil level, Global Game Jam at Goldsmiths is accessible
+  to you.</p>
 supporters:
-  - name: goldsmiths
-  - name: doc
-  - name: goldsu
-
+- name: goldsmiths
+- name: doc
+- name: goldsu
 show_support_text: true
-
 buttons:
-  - name: Free tickets
-    url: https://www.eventbrite.co.uk/e/global-game-jam-2018-at-goldsmiths-tickets-41139898544
-    type: primary
-  - name: 2017 Highlights
-    url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
+- name: Free tickets
+  url: https://www.eventbrite.co.uk/e/global-game-jam-2018-at-goldsmiths-tickets-41139898544
+  type: primary
+- name: 2017 Highlights
+  url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
 ---
-
 
 <hr>
 <section class="project-faq">

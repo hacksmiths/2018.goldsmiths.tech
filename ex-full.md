@@ -1,32 +1,36 @@
 ---
+title: Sex Tech Hack II
+date: -0026-11-25 00:00:00 Z
 layout: project
 projectname: sex-tech-hack
 og: projects/sex-tech-hack/og.png
-
-title: Sex Tech Hack II
 one_line: A hackathon exploring companionship, intimacy & sexuality.
 tagline: Should Taboo Stifle Innovation?
-
-description: <p>In 2016, we ran the first Sex Tech Hack in Europe. Over 50 attendees from a range of backgrounds joined us for two days of learning, building and sharing (ideas, that is). We had coverage from <a href="https://www.newscientist.com/article/mg23331130-100-how-to-build-better-sex-robots-stop-making-them-look-human">New Scientist</a>, <a href="https://www.girlonthenet.com/2016/12/21/amazing-inventions-from-the-goldsmiths-sex-tech-hack/">Girl on the Net</a>, and <a href="http://www.makery.info/en/2016/12/20/au-premier-sex-tech-hack-un-hackathon-sur-la-sexualite-a-londres/">Makery</a>. You can check out all 14 project videos on <a href="https://www.youtube.com/playlist?list=PLDmeXp90KI9leIRVQGsrOZvFXVo28F8wO">YouTube</a>.</p><p>In 2017, we're going to make it bigger and better than before - inviting more hackers from around the world to build exciting new sex technologies.</p><p>On Friday November 24, we'll also be running a day-long conference to encourage discussion around these themes. Free tickets are available <a href="https://www.eventbrite.co.uk/e/sex-tech-hack-ii-discussion-day-tickets-39365838282">here</a>.</p>
-
-date: November 25-26 2017
+description: <p>In 2016, we ran the first Sex Tech Hack in Europe. Over 50 attendees
+  from a range of backgrounds joined us for two days of learning, building and sharing
+  (ideas, that is). We had coverage from <a href="https://www.newscientist.com/article/mg23331130-100-how-to-build-better-sex-robots-stop-making-them-look-human">New
+  Scientist</a>, <a href="https://www.girlonthenet.com/2016/12/21/amazing-inventions-from-the-goldsmiths-sex-tech-hack/">Girl
+  on the Net</a>, and <a href="http://www.makery.info/en/2016/12/20/au-premier-sex-tech-hack-un-hackathon-sur-la-sexualite-a-londres/">Makery</a>.
+  You can check out all 14 project videos on <a href="https://www.youtube.com/playlist?list=PLDmeXp90KI9leIRVQGsrOZvFXVo28F8wO">YouTube</a>.</p><p>In
+  2017, we're going to make it bigger and better than before - inviting more hackers
+  from around the world to build exciting new sex technologies.</p><p>On Friday November
+  24, we'll also be running a day-long conference to encourage discussion around these
+  themes. Free tickets are available <a href="https://www.eventbrite.co.uk/e/sex-tech-hack-ii-discussion-day-tickets-39365838282">here</a>.</p>
 time: 10:00 Sat - 17:00 Sun
-address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
+address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14
+  6AD
 hashtag: SexTechHack
-
 supporters:
-  - name: goldsmiths
-  - name: doc
-  - name: goldsu
-  - name: samsung-internet
-
+- name: goldsmiths
+- name: doc
+- name: goldsu
+- name: samsung-internet
 show_support_text: true
-
 buttons:
-  - name: Sponsorship Enquiries
-    url: /contact
-  - name: 2016 Highlights
-    url: https://storify.com/phazonoverload/sex-tech-hack-2016
+- name: Sponsorship Enquiries
+  url: "/contact"
+- name: 2016 Highlights
+  url: https://storify.com/phazonoverload/sex-tech-hack-2016
 ---
 
 <hr>

@@ -3,7 +3,8 @@ title: Home
 projectname: home
 layout: default
 og: og.png
-one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths, University of London.
+one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths,
+  University of London.
 ---
 
 <section class="switchable feature-large bg--secondary hero">

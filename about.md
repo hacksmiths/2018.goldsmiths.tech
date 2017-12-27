@@ -3,21 +3,23 @@ title: About
 projectname: about
 layout: default
 og: og.png
-one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths, University of London.
+one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths,
+  University of London.
 supporters:
-  - name: annual-fund
-  - name: autodesk
-  - name: dottech
-  - name: github
-  - name: glitch
-  - name: mlh
-  - name: mystery-vibe
-  - name: roli
-  - name: samsung-internet
-  - name: sendgrid
-  - name: spotify
-  - name: twilio
+- name: annual-fund
+- name: autodesk
+- name: dottech
+- name: github
+- name: glitch
+- name: mlh
+- name: mystery-vibe
+- name: roli
+- name: samsung-internet
+- name: sendgrid
+- name: spotify
+- name: twilio
 ---
+
 <section class="about">
   <div class="container">
     <div class="row">

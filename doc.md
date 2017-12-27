@@ -1,29 +1,29 @@
 ---
+title: DoC.Hack 2017
+date: 2017-09-26 00:00:00 Z
 past: true
-
 layout: project
 projectname: doc-hack
 og: projects/doc-hack/og.png
-
-title: DoC.Hack 2017
 one_line: A hackday for all members of the Gold Computing community.
 tagline: Build Awesome Stuff - Learn by Doing
-
-description: <p>At Goldsmiths we believe in "learning by doing". Hacksmiths and the Department of Computing invite you to take part in DoC.Hack - a friendly and welcoming introduction to the Computing Community at Goldsmiths. This is event is for all students in all programmes and years, and members of faculty.<br><br>For 6 hours you'll get to design and build weird, wacky and wonderful projects while meeting new people and having fun, before a relaxed show and tell.<br><br>No skill, ideas or team needed - just bring a laptop and we'll sort the rest.</p>
-
-date: 26th September 2017
+description: <p>At Goldsmiths we believe in "learning by doing". Hacksmiths and the
+  Department of Computing invite you to take part in DoC.Hack - a friendly and welcoming
+  introduction to the Computing Community at Goldsmiths. This is event is for all
+  students in all programmes and years, and members of faculty.<br><br>For 6 hours
+  you'll get to design and build weird, wacky and wonderful projects while meeting
+  new people and having fun, before a relaxed show and tell.<br><br>No skill, ideas
+  or team needed - just bring a laptop and we'll sort the rest.</p>
 time: 10:00 - 17:00
 address: RHB 300/300A<br>Goldsmiths, University of London<br>SE14 6NW
 hashtag: dochack
-
 supporters:
-  - name: goldsmiths
-  - name: doc
-  - name: goldsu
-
+- name: goldsmiths
+- name: doc
+- name: goldsu
 show_support_text: false
-
 ---
+
 <hr>
 <section class="project-faq">
   <div class="container">

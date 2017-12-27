@@ -1,12 +1,11 @@
 ---
+title: Sex Tech Hack II
+date: -0026-11-25 00:00:00 Z
 layout: project
 projectname: sex-tech-hack
 og: projects/sex-tech-hack/og.png
-
-title: Sex Tech Hack II
 one_line: A hackathon exploring companionship, intimacy & sexuality.
 tagline: Should Taboo Stifle Innovation?
-
 description: |
   <p>Sex Tech Hack II invited over 50 hackers from around the world to build exciting new sex technologies. The challenges for this year were 'intimacy', 'accessibility' and 'personalisation'. There were 17 projects built, and it was fantastic.</p>
 
@@ -59,32 +58,26 @@ description: |
   <p><b>14:00</b> Show & Tell</p>
   <p><b>16:00</b> Event end</p>
   </div>-->
-
-date: November 25-26 2017
 time: 10:00 Sat - 17:00 Sun
-address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14 6AD
+address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14
+  6AD
 hashtag: SexTechHack
-
 supporters:
-  - name: goldsmiths
-  - name: doc
-  - name: goldsu
-  - name: github
-  - name: samsung-internet
-  - name: mystery-vibe
-  - name: decoded-legal
-  - name: octopuss
-  - name: paul-clarke
-  - name: nethermind
-
-# show_support_text: true
-
+- name: goldsmiths
+- name: doc
+- name: goldsu
+- name: github
+- name: samsung-internet
+- name: mystery-vibe
+- name: decoded-legal
+- name: octopuss
+- name: paul-clarke
+- name: nethermind
 buttons:
-  - name: 2017 Highlights
-    url: https://storify.com/_phzn/sex-tech-hack-ii
-  - name: 2016 Highlights
-    url: https://storify.com/phazonoverload/sex-tech-hack-2016
-
+- name: 2017 Highlights
+  url: https://storify.com/_phzn/sex-tech-hack-ii
+- name: 2016 Highlights
+  url: https://storify.com/phazonoverload/sex-tech-hack-2016
 past: true
 ---
 
