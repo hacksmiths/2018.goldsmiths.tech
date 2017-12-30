@@ -89,8 +89,8 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
     </div>
     <div class="community">
         <div class="container">
-            <h1>Run an event in our community series</h1>
-            <p>Get mentorship, support, exposure and budget</p>
+            <img src="/assets/img/community-white.svg" alt="Hacksmiths Community Series">
+            <p>Get mentorship, support, exposure and budget to run your tech-focussed events</p>
             <a href="/community" class="btn type--uppercase btn--primary">Find out more</a>
         </div>
     </div>

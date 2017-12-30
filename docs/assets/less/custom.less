@@ -392,11 +392,14 @@ a.cal {
 
 [project=home] .community {
   margin-top: 3em;
-  padding: 2rem;
-  background: #bf0000;
+  padding: 4em 2em;
+  background:@color-red;
   text-align: center;
   h1, p {
     color: white;
+  }
+  img {
+    width: 33%;
   }
   h1 {
     font-size: 1.5em;
@@ -404,9 +407,42 @@ a.cal {
   }
   .btn {
     background: white;
-    color: #bf0000;
+    color: @color-red;
     &:hover {
       background: lightgrey;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    img {
+      width: 75%;
+    }
+  }
+}
+
+[project=community] {
+  .project-hero {
+    background: @color-red !important;
+    img {
+      width: 50% !important;
+    }
+    h2 {
+      font-size: 1.5em;
+      margin-bottom: 1em;
+      padding-bottom: 0;
+    }
+    .btn {
+      background: white;
+      color: @color-red;
+    }
+  }
+  .main-content {
+    font-size: 1.25em;
+    margin: 6em 0;
+  }
+  .inner {
+    padding: 0 5em;
+    @media screen and (max-width: 768px) {
+      padding: 0 1em;
     }
   }
 }

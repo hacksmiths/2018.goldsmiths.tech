@@ -9188,13 +9188,16 @@ a.cal:hover {
 }
 [project=home] .community {
   margin-top: 3em;
-  padding: 2rem;
+  padding: 4em 2em;
   background: #bf0000;
   text-align: center;
 }
 [project=home] .community h1,
 [project=home] .community p {
   color: white;
+}
+[project=home] .community img {
+  width: 33%;
 }
 [project=home] .community h1 {
   font-size: 1.5em;
@@ -9206,6 +9209,38 @@ a.cal:hover {
 }
 [project=home] .community .btn:hover {
   background: lightgrey;
+}
+@media screen and (max-width: 768px) {
+  [project=home] .community img {
+    width: 75%;
+  }
+}
+[project=community] .project-hero {
+  background: #bf0000 !important;
+}
+[project=community] .project-hero img {
+  width: 50% !important;
+}
+[project=community] .project-hero h2 {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+  padding-bottom: 0;
+}
+[project=community] .project-hero .btn {
+  background: white;
+  color: #bf0000;
+}
+[project=community] .main-content {
+  font-size: 1.25em;
+  margin: 6em 0;
+}
+[project=community] .inner {
+  padding: 0 5em;
+}
+@media screen and (max-width: 768px) {
+  [project=community] .inner {
+    padding: 0 1em;
+  }
 }
 body[project] .project-hero img {
   width: 25%;
@@ -9240,14 +9275,17 @@ body[project="sex-tech-hack"] .btn--primary {
 body[project="sex-tech-hack"] .label:not([class*='bg--']) {
   background: #63182d;
 }
-body[project="doc-hack"] a {
+body[project="doc-hack"] a,
+body[project="community"] a {
   color: #bf0000;
 }
-body[project="doc-hack"] .btn--primary {
+body[project="doc-hack"] .btn--primary,
+body[project="community"] .btn--primary {
   background: #bf0000;
   border: #a60000;
 }
-body[project="doc-hack"] .label:not([class*='bg--']) {
+body[project="doc-hack"] .label:not([class*='bg--']),
+body[project="community"] .label:not([class*='bg--']) {
   background: #a60000;
 }
 body[project="monthly"] a {

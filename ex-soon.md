@@ -1,6 +1,6 @@
 ---
 title: Example Soon Page
-date: 0008-04-07 00:00:00 Z
+date: 1 January 1970
 projectname: music
 og: og.png
 one_line: Music Hackday is the stage to experiment with the changes in music and develop

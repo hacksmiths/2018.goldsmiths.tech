@@ -1,6 +1,6 @@
 ---
 title: Sex Tech Hack II
-date: -0026-11-25 00:00:00 Z
+date: DATE HERE
 layout: project
 projectname: sex-tech-hack
 og: projects/sex-tech-hack/og.png
