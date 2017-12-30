@@ -1,6 +1,6 @@
 ---
 title: Sci Fi Hack
-date: 12 August 2017
+date: 2017-08-12 00:00:00 Z
 layout: project
 projectname: sci-fi
 og: og.png

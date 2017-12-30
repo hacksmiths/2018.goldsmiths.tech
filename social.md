@@ -1,6 +1,6 @@
 ---
 title: Social Hackathon 2018
-date: 21 February 2018
+date: 2018-02-21 00:00:00 Z
 layout: soon
 projectname: social
 og: og.png

@@ -1,6 +1,6 @@
 ---
 title: Hebocon London 2017
-date: 4 October 2017
+date: 2017-10-04 00:00:00 Z
 past: true
 layout: project
 projectname: hebocon

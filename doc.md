@@ -1,6 +1,6 @@
 ---
 title: DoC.Hack 2017
-date: 26 September 2017
+date: 2017-09-26 00:00:00 Z
 past: true
 layout: project
 projectname: doc-hack

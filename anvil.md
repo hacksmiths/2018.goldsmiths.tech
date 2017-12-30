@@ -1,6 +1,6 @@
 ---
 title: Anvil Hack IV
-date: 23-25 February 2018
+date: 2018-02-25 00:00:00 Z
 layout: soon
 projectname: anvil
 og: og.png

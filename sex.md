@@ -1,6 +1,6 @@
 ---
 title: Sex Tech Hack II
-date: 24-26 December 2017
+date: 2017-12-26 00:00:00 Z
 layout: project
 projectname: sex-tech-hack
 og: projects/sex-tech-hack/og.png
