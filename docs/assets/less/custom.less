@@ -11,36 +11,45 @@
     font-weight: normal;
   }
 
+  .upcoming,
+  .past {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 1.5em;
+    grid-row-gap: 1.5em;
+    align-items: stretch;
+    padding: 0 1em;
+    @media screen and (max-width: 768px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    @media screen and (max-width: 560px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
   .event-single {
-    a {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: inherit;
+    font-weight: inherit;
+    padding: 1.5em;
+    display: flex;
+    flex-direction: column;
+    h5 {
+      margin-bottom: 1em;
+    }
+    p {
+      margin-bottom: 0.5em;
+    }
+    small {
+      flex: 1 0 auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+    }
+    &:hover {
       text-decoration: none;
-      font-weight: inherit;
-      color: inherit;
-      &[href] {
-        .boxed {
-          border-color: #ccc;
-          &:hover {
-            border-color: @color-pink;
-          }
-        }
-      }
-      p {
-        font-weight: normal;
-      }
-    }
-    .boxed {
-      margin-bottom: 0;
-      span {
-        position: absolute;
-        top: 0;
-        right: 0;
-        background: rgba(200, 200, 200, 0.25);
-        padding: 0.5em 1em;
-        border-bottom-left-radius: 5px;
-      }
-    }
-    .feature:not(.boxed) {
-      margin-bottom: 30px;
+      border-color: @color-pink;
     }
   }
 }
@@ -377,6 +386,27 @@ a.cal {
       + p {
         color: black;
       }
+    }
+  }
+}
+
+[project=home] .community {
+  margin-top: 3em;
+  padding: 2rem;
+  background: #bf0000;
+  text-align: center;
+  h1, p {
+    color: white;
+  }
+  h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  .btn {
+    background: white;
+    color: #bf0000;
+    &:hover {
+      background: lightgrey;
     }
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Music Hack Day London 2018
-date: -0008-04-07 00:00:00 Z
+date: 7-8 April 2018
 layout: soon
 projectname: music
 og: og.png

@@ -1761,6 +1761,34 @@ a.cal:hover
 {
     color: black;
 }
+[project=home] .community
+{
+    margin-top: 3em;
+    padding: 2rem;
+
+    text-align: center;
+
+    background: #bf0000;
+}
+[project=home] .community h1,
+[project=home] .community p
+{
+    color: white;
+}
+[project=home] .community h1
+{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+[project=home] .community .btn
+{
+    color: #bf0000;
+    background: white;
+}
+[project=home] .community .btn:hover
+{
+    background: lightgrey;
+}
 body[project] .project-hero img
 {
     width: 25%;

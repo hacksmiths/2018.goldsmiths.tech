@@ -1,6 +1,6 @@
 ---
 title: Monthly Talks & Workshops
-date: 1970-01-01 00:00:00 Z
+date: Monthly
 layout: project
 projectname: monthly
 og: og.png

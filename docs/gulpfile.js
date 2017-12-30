@@ -11,6 +11,12 @@ gulp.task('less', function () {
     .pipe(gulp.dest('./assets/css/big'));
 });
 
+gulp.task('less-dev', function () {
+  return gulp.src('./assets/less/theme.less')
+    .pipe(less())
+    .pipe(gulp.dest('./assets/css'));
+});
+
 // Sorting the CSS
 gulp.task('styles', ['less'], function () {
   return gulp.src('./assets/css/big/theme.css')
@@ -37,8 +43,9 @@ gulp.task('minify-css', ['uncss'], function () {
 });
 
 // Run all the tasks above in the following fixed sequence
-gulp.task('css', ['less', 'styles', 'uncss', 'minify-css']);
+gulp.task('css-prod', ['less', 'styles', 'uncss', 'minify-css']);
+gulp.task('css-dev', ['less-dev']);
 
 gulp.task('default', function () {
-  gulp.watch('./assets/less/*.less', ['css']);
+  gulp.watch('./assets/less/*.less', ['css-dev']);
 });

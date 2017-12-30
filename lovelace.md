@@ -1,6 +1,6 @@
 ---
 title: Lovelace
-date: 1970-01-01 00:00:00 Z
+date: Every 2 months
 layout: project
 projectname: lovelace
 og: projects/lovelace/og.png

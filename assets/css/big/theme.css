@@ -8822,6 +8822,7 @@ footer.footer-7 {
 .events {
   padding-top: 0;
   padding-bottom: 60px;
+  background: red;
 }
 .events h2 {
   margin: 60px 0;
@@ -8831,6 +8832,12 @@ footer.footer-7 {
   font-size: 1em;
   text-align: center;
   font-weight: normal;
+}
+.events .upcoming {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
 }
 .events .event-single a {
   text-decoration: none;
@@ -9167,6 +9174,27 @@ a.cal:hover {
 }
 .internal-links li p + p {
   color: black;
+}
+[project=home] .community {
+  margin-top: 3em;
+  padding: 2rem;
+  background: #bf0000;
+  text-align: center;
+}
+[project=home] .community h1,
+[project=home] .community p {
+  color: white;
+}
+[project=home] .community h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+[project=home] .community .btn {
+  background: white;
+  color: #bf0000;
+}
+[project=home] .community .btn:hover {
+  background: lightgrey;
 }
 body[project] .project-hero img {
   width: 25%;
