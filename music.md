@@ -1,6 +1,6 @@
 ---
 title: Music Hack Day London 2018
-when: 8-8 April 2018
+when: 7-8 April 2018
 layout: soon
 projectname: music
 og: og.png
