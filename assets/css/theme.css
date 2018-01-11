@@ -9397,6 +9397,16 @@ body.access #access-controls a {
 body.access #access-controls a:hover {
   cursor: pointer;
 }
+@media screen and (max-width: 768px) {
+  #access-controls,
+  body.access #access-controls {
+    width: 100%;
+  }
+  #access-controls span,
+  body.access #access-controls span {
+    display: none;
+  }
+}
 body.access {
   background: #fefae0;
 }
