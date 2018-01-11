@@ -9432,7 +9432,18 @@ body.access nav .menu-horizontal > li:not(:hover) > a:hover {
   text-decoration: underline;
 }
 body.access .bar-1 .bar__module {
-  margin-bottom: 1em;
+  margin-bottom: 0;
+}
+@media all and (min-width: 768px) {
+  body.access .bar-1 .bar__module {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  body.access .bar-1 .bar__module {
+    margin-bottom: 1em;
+  }
 }
 body.access .bg--secondary,
 body.access .about .ethics {
@@ -9480,4 +9491,7 @@ body.access .about .col-sm-offset-1 {
 }
 body.access .events h2 {
   padding-left: 1rem;
+}
+body.access .right-on-access {
+  text-align: right;
 }

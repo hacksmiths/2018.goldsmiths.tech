@@ -61,7 +61,14 @@ body.access {
     }
   }
   .bar-1 .bar__module {
-    margin-bottom: 1em;
+    margin-bottom: 0;
+    @media all and (min-width: 768px) {
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+    @media screen and (max-width: 768px) {
+      margin-bottom: 1em;
+    }
   }
   .bg--secondary,
   .about .ethics {
@@ -103,5 +110,8 @@ body.access {
   }
   .events h2 {
     padding-left: 1rem;
+  }
+  .right-on-access {
+    text-align: right;
   }
 }
