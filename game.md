@@ -1,6 +1,6 @@
 ---
 title: Global Game Jam 2018
-date: 2018-01-28 00:00:00 Z
+when: 26-28 Jan 2018
 layout: project
 projectname: game
 og: projects/game/og.png

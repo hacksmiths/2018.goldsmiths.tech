@@ -1,6 +1,6 @@
 ---
 title: Code & Craft
-date: 1970-01-01 00:00:00 Z
+when: Every Wednesday
 layout: project
 projectname: craft
 og: "/projects/craft/og.png"

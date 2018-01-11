@@ -23,7 +23,7 @@ supporters:
 <section class="about">
   <div class="container">
     <div class="row">
-      <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+      <div class="col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2 expand">
         <article>
           <div class="article__title text-center">
             <h1 class="h2">Hi, we're Hacksmiths.</h1>

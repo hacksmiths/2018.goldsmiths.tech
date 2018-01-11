@@ -11,7 +11,7 @@ layout: default
   </div>
   <div class="container pos-vertical-center">
     <div class="row">
-      <div class="col-sm-9 col-md-8">
+      <div class="col-sm-9 col-md-8 expand">
         <img src="/assets/img/community-white.svg" alt="{{page.title}} Logo">
         <h2>Run a tech-focussed event as part of our community series and get mentorship, support, exposure and budget to run your project.</h2>
         <a class="btn type--uppercase btn--primary" href="https://goo.gl/forms/fRDvzCKb2hGO3gMt2">Apply now</a>

@@ -1,0 +1,101 @@
+@access-bg: RGB(254, 250, 224);
+@access-bg2: darken(@access-bg, 10%);
+@access-text: blue;
+
+.only-access {
+  display: none;
+}
+
+#access-controls,
+body.access #access-controls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background: black;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  * {
+    color: white;
+    font-size: 1rem;
+    line-height: 1.8rem;
+  }
+  span, a {
+    margin-right: 1rem;
+    font-size: 1rem;
+  }
+  a {
+    text-decoration: underline;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+
+body.access {
+  background: @access-bg;
+  .only-access {
+    display: inline;
+  }
+  * {
+    color: @access-text;
+    font-family: "od-r", cursive;
+    opacity: 1;
+    text-align: left;
+  }
+  #menu1 .logo-area,
+  .buttons-header {
+    display: none;
+  }
+  nav .menu-horizontal > li:not(:hover) > a {
+    opacity: 1;
+    color: @access-text;
+    text-decoration: underline;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  .bar-1 .bar__module {
+    margin-bottom: 1em;
+  }
+  .bg--secondary,
+  .about .ethics {
+    background: @access-bg2;
+  }
+  .boxed:not([class*="bg-"]) {
+    background: @access-bg;
+  }
+  .btn {
+    background: @access-text;
+    color: white;
+    text-decoration: underline;
+    border: none;
+    padding: 0.25em 1em;
+    * {
+      color: white;
+    }
+  }
+  &[project="home"] .community,
+  .valuable-skills,
+  .project-hero {
+    background: @access-text !important;
+    * {
+      color: white;
+    }
+    .btn {
+      padding-left: 0;
+      background: transparent;
+    }
+    .background-image-holder {
+      display: none;
+    }
+  }
+  .expand {
+    width: 100%;
+  }
+  .about .col-sm-offset-1 {
+    margin-left: 0;
+  }
+  .events h2 {
+    padding-left: 1rem;
+  }
+}

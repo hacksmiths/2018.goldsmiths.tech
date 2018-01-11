@@ -9242,6 +9242,12 @@ a.cal:hover {
     padding: 0 1em;
   }
 }
+.btn.btn--sm + .btn--sm {
+  margin-left: 0;
+}
+.btn.btn--sm {
+  margin-right: 0.8em;
+}
 body[project] .project-hero img {
   width: 25%;
 }
@@ -9357,4 +9363,111 @@ body[project="music"] .btn--primary {
 }
 body[project="music"] .label:not([class*='bg--']) {
   background: #262626;
+}
+.only-access {
+  display: none;
+}
+#access-controls,
+body.access #access-controls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background: black;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
+#access-controls *,
+body.access #access-controls * {
+  color: white;
+  font-size: 1rem;
+  line-height: 1.8rem;
+}
+#access-controls span,
+body.access #access-controls span,
+#access-controls a,
+body.access #access-controls a {
+  margin-right: 1rem;
+  font-size: 1rem;
+}
+#access-controls a,
+body.access #access-controls a {
+  text-decoration: underline;
+}
+#access-controls a:hover,
+body.access #access-controls a:hover {
+  cursor: pointer;
+}
+body.access {
+  background: #fefae0;
+}
+body.access .only-access {
+  display: inline;
+}
+body.access * {
+  color: blue;
+  font-family: "od-r", cursive;
+  opacity: 1;
+  text-align: left;
+}
+body.access #menu1 .logo-area,
+body.access .buttons-header {
+  display: none;
+}
+body.access nav .menu-horizontal > li:not(:hover) > a {
+  opacity: 1;
+  color: blue;
+  text-decoration: underline;
+}
+body.access nav .menu-horizontal > li:not(:hover) > a:hover {
+  text-decoration: underline;
+}
+body.access .bar-1 .bar__module {
+  margin-bottom: 1em;
+}
+body.access .bg--secondary,
+body.access .about .ethics {
+  background: #fcf2af;
+}
+body.access .boxed:not([class*="bg-"]) {
+  background: #fefae0;
+}
+body.access .btn {
+  background: blue;
+  color: white;
+  text-decoration: underline;
+  border: none;
+  padding: 0.25em 1em;
+}
+body.access .btn * {
+  color: white;
+}
+body.access[project="home"] .community,
+body.access .valuable-skills,
+body.access .project-hero {
+  background: blue !important;
+}
+body.access[project="home"] .community *,
+body.access .valuable-skills *,
+body.access .project-hero * {
+  color: white;
+}
+body.access[project="home"] .community .btn,
+body.access .valuable-skills .btn,
+body.access .project-hero .btn {
+  padding-left: 0;
+  background: transparent;
+}
+body.access[project="home"] .community .background-image-holder,
+body.access .valuable-skills .background-image-holder,
+body.access .project-hero .background-image-holder {
+  display: none;
+}
+body.access .expand {
+  width: 100%;
+}
+body.access .about .col-sm-offset-1 {
+  margin-left: 0;
+}
+body.access .events h2 {
+  padding-left: 1rem;
 }
