@@ -9345,14 +9345,14 @@ body[project="game"] .label:not([class*='bg--']) {
   background: #552b55;
 }
 body[project="anvil"] a {
-  color: #BD901E;
+  color: #3B7A8A;
 }
 body[project="anvil"] .btn--primary {
-  background: #BD901E;
-  border: #a77f1b;
+  background: #3B7A8A;
+  border: #336a78;
 }
 body[project="anvil"] .label:not([class*='bg--']) {
-  background: #a77f1b;
+  background: #336a78;
 }
 body[project="music"] a {
   color: #333;
