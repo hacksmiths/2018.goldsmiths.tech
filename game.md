@@ -10,7 +10,7 @@ one_line: Spend a weekend building interactive playable experiences - both digit
 tagline: Get together and create games in one weekend at Goldsmiths, University of
   London.
 hashtag: GlobalGameJam
-time: 12:00 Friday - 15:00 Sunday
+time: 15:00 Friday - 15:00 Sunday
 address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14
   6AD
 description: |
