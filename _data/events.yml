@@ -79,11 +79,13 @@
   line: A trip to the student hackathon at Royal Holloway, UoL.
   date: January 13-14 2018
   url: https://www.facebook.com/events/299636683866936/
+  past: true
 
 - name: Happy Calm Chocsmiths
   line: Join Happy Calm Knitting and Chocolate Society for a welcome back!
   date: January 15 2018
   url: https://www.facebook.com/events/136640587023638/
+  past: true
 
 - name: Global Game Jam 2018
   line: Get together and create games together in one weekend.
