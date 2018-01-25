@@ -13,7 +13,8 @@ hashtag: GlobalGameJam
 time: 12:00 Friday - 15:00 Sunday
 address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14
   6AD
-description: <p>At Global Game Jam we gather game developers, designers, and interactive
+description: |
+  <p>At Global Game Jam we gather game developers, designers, and interactive
   storytellers to build fun games over the course of the weekend focussed around a
   secret theme released at the start of the event.</p><p>We are here to enable you
   to build your ideas - whether they're tabletop games, physical computing projects,
@@ -22,6 +23,21 @@ description: <p>At Global Game Jam we gather game developers, designers, and int
   which contains lots of tools for prototyping tabletop games (such as cards, counters
   and meeples).</p><p>Whatever your skil level, Global Game Jam at Goldsmiths is accessible
   to you.</p>
+  <div class="schedule">
+  <h3>Friday 26 February</h3>
+  <p><b>15:00</b> Doors open, play games!</p>
+  <p><b>17:00</b> Theme reveal</p>
+  <p><b>18:00</b> Idea sharing, team building</p>
+  <p><b>20:00</b> Breakout workshop: Storytelling</p>
+  <p><b>21:00</b> Breakout workshop: Unity</p>
+  <p><b>22:00</b> Breakout workshop: WebVR</p>
+  <p><b>23:00</b> Breakout workshop: Twine</p><br>
+  <h3>Saturday 27 February</h3>
+  <p><b>All day</b> Building</p><br>
+  <h3>Sunday 28 February</h3>
+  <p><b>12:00</b> Show & Tell</p>
+  <p><b>14:00</b> Event end and social</p>
+  </div>
 supporters:
 - name: goldsmiths
 - name: doc
