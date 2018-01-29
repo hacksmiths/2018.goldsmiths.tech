@@ -11,20 +11,15 @@ buttons:
 - name: Coming soon - get updates
   url: http://m.me/smithsbot
   type: primary
-
-desc: |
-  <p>More info coming soon</p>
-
+desc: "<p>More info coming soon</p>\n"
 where-when: |
   Room MMB 220<br>
   Goldsmiths, University of London<br>
   March 21 2018, 4-8pm
-
 organiser: |
   Bethany Loft<br>
   Goldsmiths, University of London<br>
   bloft015@gold.ac.uk
-
 misc: |
   <a href="/conduct">Code of Conduct</a><br>
   #GoldSocialHack
