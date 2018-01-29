@@ -106,7 +106,8 @@
 - name: Social Hacakthon 2018
   line: Exploring various volunteering themes to create impactful projects.
   date: February 21 2017
-  url: #
+  url: /social
+  community: true
 
 - name: Anvil Hack IV
   line: Our annual student hackathon focussing on creative digital art.

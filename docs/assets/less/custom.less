@@ -28,13 +28,16 @@
   }
 
   .event-single {
-    border: 1px solid #ccc;
+    border: 1px solid @color-purple;
     border-radius: 5px;
     color: inherit;
     font-weight: inherit;
     padding: 1.5em;
     display: flex;
     flex-direction: column;
+    &.c {
+      border-color: @color-red;
+    }
     h5 {
       margin-bottom: 1em;
     }
@@ -49,7 +52,6 @@
     }
     &:hover {
       text-decoration: none;
-      border-color: @color-pink;
     }
   }
 }
@@ -443,6 +445,34 @@ a.cal {
     padding: 0 5em;
     @media screen and (max-width: 768px) {
       padding: 0 1em;
+    }
+  }
+}
+
+.community-header {
+  text-align: center;
+  color: white;
+  background: @color-red;
+  padding: 1em;
+  a {
+    color: white !important;
+  }
+}
+
+.community-blocks .boxes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 1em;
+  @media screen and (max-width: 768px) {
+    grid-template-columns: 1fr;
+    grid-row-gap: 1em;
+  }
+  .box {
+    border: 1px solid lightgrey;
+    padding: 1em;
+    border-radius: 5px;
+    h2 {
+      font-size: 1.25em;
     }
   }
 }

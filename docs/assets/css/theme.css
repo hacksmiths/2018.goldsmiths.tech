@@ -8854,13 +8854,16 @@ footer.footer-7 {
   }
 }
 .events .event-single {
-  border: 1px solid #ccc;
+  border: 1px solid #633B93;
   border-radius: 5px;
   color: inherit;
   font-weight: inherit;
   padding: 1.5em;
   display: flex;
   flex-direction: column;
+}
+.events .event-single.c {
+  border-color: #bf0000;
 }
 .events .event-single h5 {
   margin-bottom: 1em;
@@ -8876,7 +8879,6 @@ footer.footer-7 {
 }
 .events .event-single:hover {
   text-decoration: none;
-  border-color: #C52085;
 }
 .bar .logo-area img {
   height: 2.5em;
@@ -9242,6 +9244,34 @@ a.cal:hover {
     padding: 0 1em;
   }
 }
+.community-header {
+  text-align: center;
+  color: white;
+  background: #bf0000;
+  padding: 1em;
+}
+.community-header a {
+  color: white !important;
+}
+.community-blocks .boxes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 1em;
+}
+@media screen and (max-width: 768px) {
+  .community-blocks .boxes {
+    grid-template-columns: 1fr;
+    grid-row-gap: 1em;
+  }
+}
+.community-blocks .boxes .box {
+  border: 1px solid lightgrey;
+  padding: 1em;
+  border-radius: 5px;
+}
+.community-blocks .boxes .box h2 {
+  font-size: 1.25em;
+}
 .btn.btn--sm + .btn--sm {
   margin-left: 0;
 }
@@ -9280,19 +9310,6 @@ body[project='sex-tech-hack'] .btn--primary {
 }
 body[project='sex-tech-hack'] .label:not([class*='bg--']) {
   background: #63182d;
-}
-body[project='doc-hack'] a,
-body[project='community'] a {
-  color: #bf0000;
-}
-body[project='doc-hack'] .btn--primary,
-body[project='community'] .btn--primary {
-  background: #bf0000;
-  border: #a60000;
-}
-body[project='doc-hack'] .label:not([class*='bg--']),
-body[project='community'] .label:not([class*='bg--']) {
-  background: #a60000;
 }
 body[project='monthly'] a {
   color: #706cf5;
@@ -9363,6 +9380,22 @@ body[project='music'] .btn--primary {
 }
 body[project='music'] .label:not([class*='bg--']) {
   background: #262626;
+}
+body[project='doc-hack'] a,
+body[project='community'] a,
+body[project='community-single'] a {
+  color: #bf0000;
+}
+body[project='doc-hack'] .btn--primary,
+body[project='community'] .btn--primary,
+body[project='community-single'] .btn--primary {
+  background: #bf0000;
+  border: #a60000;
+}
+body[project='doc-hack'] .label:not([class*='bg--']),
+body[project='community'] .label:not([class*='bg--']),
+body[project='community-single'] .label:not([class*='bg--']) {
+  background: #a60000;
 }
 .only-access {
   display: none;
