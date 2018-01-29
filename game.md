@@ -43,10 +43,8 @@ supporters:
 - name: doc
 - name: goldsu
 show_support_text: true
+past: true
 buttons:
-- name: Free tickets
-  url: https://www.eventbrite.co.uk/e/global-game-jam-2018-at-goldsmiths-tickets-41139898544
-  type: primary
 - name: 2017 Highlights
   url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
 ---

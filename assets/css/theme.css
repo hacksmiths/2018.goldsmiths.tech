@@ -9251,117 +9251,117 @@ a.cal:hover {
 body[project] .project-hero img {
   width: 25%;
 }
-body[project="projectname"] a {
+body[project='projectname'] a {
   color: teal;
 }
-body[project="projectname"] .btn--primary {
+body[project='projectname'] .btn--primary {
   background: teal;
   border: #006667;
 }
-body[project="projectname"] .label:not([class*='bg--']) {
+body[project='projectname'] .label:not([class*='bg--']) {
   background: #006667;
 }
-body[project="sci-fi"] a {
+body[project='sci-fi'] a {
   color: #001266;
 }
-body[project="sci-fi"] .btn--primary {
+body[project='sci-fi'] .btn--primary {
   background: #001266;
   border: #000d4d;
 }
-body[project="sci-fi"] .label:not([class*='bg--']) {
+body[project='sci-fi'] .label:not([class*='bg--']) {
   background: #000d4d;
 }
-body[project="sex-tech-hack"] a {
-  color: #781D36;
+body[project='sex-tech-hack'] a {
+  color: #781d36;
 }
-body[project="sex-tech-hack"] .btn--primary {
-  background: #781D36;
+body[project='sex-tech-hack'] .btn--primary {
+  background: #781d36;
   border: #63182d;
 }
-body[project="sex-tech-hack"] .label:not([class*='bg--']) {
+body[project='sex-tech-hack'] .label:not([class*='bg--']) {
   background: #63182d;
 }
-body[project="doc-hack"] a,
-body[project="community"] a {
+body[project='doc-hack'] a,
+body[project='community'] a {
   color: #bf0000;
 }
-body[project="doc-hack"] .btn--primary,
-body[project="community"] .btn--primary {
+body[project='doc-hack'] .btn--primary,
+body[project='community'] .btn--primary {
   background: #bf0000;
   border: #a60000;
 }
-body[project="doc-hack"] .label:not([class*='bg--']),
-body[project="community"] .label:not([class*='bg--']) {
+body[project='doc-hack'] .label:not([class*='bg--']),
+body[project='community'] .label:not([class*='bg--']) {
   background: #a60000;
 }
-body[project="monthly"] a {
-  color: #706CF5;
+body[project='monthly'] a {
+  color: #706cf5;
 }
-body[project="monthly"] .btn--primary {
-  background: #706CF5;
+body[project='monthly'] .btn--primary {
+  background: #706cf5;
   border: #5954f3;
 }
-body[project="monthly"] .label:not([class*='bg--']) {
+body[project='monthly'] .label:not([class*='bg--']) {
   background: #5954f3;
 }
-body[project="craft"] a {
+body[project='craft'] a {
   color: #F6A623;
 }
-body[project="craft"] .btn--primary {
+body[project='craft'] .btn--primary {
   background: #F6A623;
   border: #f59c0b;
 }
-body[project="craft"] .label:not([class*='bg--']) {
+body[project='craft'] .label:not([class*='bg--']) {
   background: #f59c0b;
 }
-body[project="lovelace"] a {
-  color: #003B36;
+body[project='lovelace'] a {
+  color: #003b36;
 }
-body[project="lovelace"] .btn--primary {
-  background: #003B36;
+body[project='lovelace'] .btn--primary {
+  background: #003b36;
   border: #00221f;
 }
-body[project="lovelace"] .label:not([class*='bg--']) {
+body[project='lovelace'] .label:not([class*='bg--']) {
   background: #00221f;
 }
-body[project="hebocon"] a {
+body[project='hebocon'] a {
   color: #D9292C;
 }
-body[project="hebocon"] .btn--primary {
+body[project='hebocon'] .btn--primary {
   background: #D9292C;
   border: #c52326;
 }
-body[project="hebocon"] .label:not([class*='bg--']) {
+body[project='hebocon'] .label:not([class*='bg--']) {
   background: #c52326;
 }
-body[project="game"] a {
+body[project='game'] a {
   color: #663366;
 }
-body[project="game"] .btn--primary {
+body[project='game'] .btn--primary {
   background: #663366;
   border: #552b55;
 }
-body[project="game"] .label:not([class*='bg--']) {
+body[project='game'] .label:not([class*='bg--']) {
   background: #552b55;
 }
-body[project="anvil"] a {
-  color: #3B7A8A;
+body[project='anvil'] a {
+  color: #BD901E;
 }
-body[project="anvil"] .btn--primary {
-  background: #3B7A8A;
-  border: #336a78;
+body[project='anvil'] .btn--primary {
+  background: #BD901E;
+  border: #a77f1b;
 }
-body[project="anvil"] .label:not([class*='bg--']) {
-  background: #336a78;
+body[project='anvil'] .label:not([class*='bg--']) {
+  background: #a77f1b;
 }
-body[project="music"] a {
+body[project='music'] a {
   color: #333;
 }
-body[project="music"] .btn--primary {
+body[project='music'] .btn--primary {
   background: #333;
   border: #262626;
 }
-body[project="music"] .label:not([class*='bg--']) {
+body[project='music'] .label:not([class*='bg--']) {
   background: #262626;
 }
 .only-access {

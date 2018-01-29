@@ -28,6 +28,7 @@ supporters:
 - name: goldsu
 - name: balsamiq
 - name: twilio
+- name: github
 ---
 
 <hr>

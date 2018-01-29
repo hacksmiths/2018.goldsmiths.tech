@@ -91,6 +91,7 @@
   line: Get together and create games together in one weekend.
   date: January 26-28 2018
   url: /game
+  past: true
 
 - name: Lovelace - February
   line: A social for women and non binary people interested in creative tech.
@@ -105,7 +106,7 @@
 - name: Social Hacakthon 2018
   line: Exploring various volunteering themes to create impactful projects.
   date: February 21 2017
-  url: /lovelace
+  url: #
 
 - name: Anvil Hack IV
   line: Our annual student hackathon focussing on creative digital art.
