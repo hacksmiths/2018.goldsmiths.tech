@@ -1,6 +1,6 @@
 ---
 title: Social Hackathon 2018
-when: 21 March 2018
+when: February 21 2018
 layout: community
 projectname: community-single
 og: og.png
@@ -18,7 +18,7 @@ desc: |
 where-when: |
   Room MMB 220<br>
   Goldsmiths, University of London<br>
-  March 21 2018, 4-8pm
+  February 21 2018, 4-8pm
 
 organiser: |
   Bethany Loft<br>
