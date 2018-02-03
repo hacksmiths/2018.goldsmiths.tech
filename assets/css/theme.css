@@ -9164,6 +9164,10 @@ body[project="lovelace"] .project-main .btn.disabled {
 .bullets.desc li:before {
   content: "";
 }
+.community-desc {
+  font-size: 1.25em;
+  line-height: 2;
+}
 .feature-1 {
   min-height: 1px;
 }
