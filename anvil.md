@@ -1,6 +1,6 @@
 ---
 title: Anvil Hack IV
-when: 23 Feb, 24-25 Feb 2018
+when: 24-25 Feb 2018
 layout: project
 projectname: anvil
 og: projects/anvil/og.png
@@ -10,8 +10,7 @@ hashtag: AnvilHackIV
 address: St James Hatcham Building<br>Goldsmiths, University of London<br>London,<br>SE14
   6AD
 description: |
-  <p>For our fourth annual Anvil Hack, we're trying something different. Join us on Friday February 23 for a free day of beginner workshops - we want to give everyone the opportunity to learn crucial technical and creative skills ahead of the weekend.</p>
-  <p>At the hackathon over the weekend, you will use your skills to make something wonderful, arty, musical - anything you build will be awesome. We'll provide you with food, drink, electricity and internet, so that you can get on with the real work - making cool and engaging projects!</p>
+  <p>At the hackathon over the weekend, you will use your technical and creative skills to make something wonderful, arty, musical - anything you build will be awesome. We'll provide you with food, drink, electricity and internet, so that you can get on with the real work - making cool and engaging projects!</p>
   <p>As well as access to our carefully curated <a href="/hardware">Hacksmiths Hardware Lab</a>, expect support from mentors and even more useful workshops for the duration of the event.</p>
   <h3>Ticket availability</h3>
   <p>Batch one will be available on Thursday 18 January at 6pm. Batch two will be available on Saturday 27 January at 1pm. Batch three will be available on Tuesday 6 February at 8pm.</p>

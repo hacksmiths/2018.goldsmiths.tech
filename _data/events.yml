@@ -97,6 +97,7 @@
   line: A social for women and non binary people interested in creative tech.
   date: February 2 2017
   url: /lovelace
+  past: true
 
 - name: Psychology x Tech Talk - Feb
   line: Inspiring talks at the intersection of Psychology & Tech.
@@ -113,6 +114,12 @@
   line: Our annual student hackathon focussing on creative digital art.
   date: 24-25 February 2018
   url: /anvil
+
+- name: Location in Performance Workshop
+  line: Explore location positioning in  games, performance and installations.
+  date: March 10 2018
+  url: /location
+  community: true
 
 - name: Lovelace - March
   line: A social for women and non binary people interested in creative tech.
