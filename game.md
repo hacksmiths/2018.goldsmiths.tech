@@ -45,6 +45,8 @@ supporters:
 show_support_text: true
 past: true
 buttons:
+- name: 2018 Highlights
+  url: https://medium.com/hacksmiths/global-game-jam-2018-at-goldsmiths-a-retrospective-e64334e69511
 - name: 2017 Highlights
   url: https://storify.com/jeremygow/goldsmiths-global-game-jam-2017
 ---
