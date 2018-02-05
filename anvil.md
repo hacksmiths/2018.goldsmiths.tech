@@ -25,11 +25,11 @@ supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
+- name: ice
 - name: balsamiq
 - name: twilio
 - name: github
 - name: indee
-- name: ice
 ---
 
 <hr>
