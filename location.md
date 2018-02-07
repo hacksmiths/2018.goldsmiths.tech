@@ -17,7 +17,7 @@ desc: |
   <p>Near Now is Broadway's studio for arts, design and innovation. They work with people and companies to make, and make sense of, technology in everyday life.</p>
 
 where-when: |
-  Room TBC<br>
+  Room RHB 304a (Staircase A)<br>
   Goldsmiths, University of London<br>
   March 10 2018, 10:30-18:00
 organiser: |
