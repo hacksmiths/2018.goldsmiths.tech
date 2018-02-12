@@ -99,9 +99,9 @@
   url: /lovelace
   past: true
 
-- name: Psychology x Tech Talk - Feb
+- name: Psychology x Tech Talk
   line: Inspiring talks at the intersection of Psychology & Tech.
-  date: February 15 2018
+  date: March 9 2018
   url: /monthly
 
 - name: Social Hacakthon 2018
@@ -114,6 +114,12 @@
   line: Our annual student hackathon focussing on creative digital art.
   date: 24-25 February 2018
   url: /anvil
+
+- name: Open Data Day
+  line: Exploring open data in the context of academia and transparency.
+  date: March 3 2018
+  url: /data
+  community: true
 
 - name: Location in Performance Workshop
   line: Explore location positioning in  games, performance and installations.

@@ -29,6 +29,7 @@ misc: |
   #LiPWorkshop
 
 supporters:
+  - name: hacksmiths
   - name: fanshen
   - name: near-now
 ---

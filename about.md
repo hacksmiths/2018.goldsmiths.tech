@@ -6,18 +6,28 @@ og: og.png
 one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths,
   University of London.
 supporters:
-- name: annual-fund
 - name: autodesk
 - name: dottech
 - name: github
 - name: glitch
-- name: mlh
+- name: octopuss
+- name: fanshen
 - name: mystery-vibe
 - name: roli
 - name: samsung-internet
 - name: sendgrid
 - name: spotify
 - name: twilio
+- name: indee
+- name: scale-factory
+- name: balsamiq
+- name: decoded-legal
+- name: careers
+- name: alumni
+- name: ice
+- name: dop
+- name: doc
+- name: goldsu
 ---
 
 <section class="about">
