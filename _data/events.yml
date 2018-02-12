@@ -99,11 +99,6 @@
   url: /lovelace
   past: true
 
-- name: Psychology x Tech Talk
-  line: Inspiring talks at the intersection of Psychology & Tech.
-  date: March 9 2018
-  url: /monthly
-
 - name: Social Hacakthon 2018
   line: Exploring various volunteering themes to create impactful projects.
   date: February 21 2017
@@ -120,6 +115,11 @@
   date: March 3 2018
   url: /data
   community: true
+
+- name: Psychology x Tech Talk
+  line: Inspiring talks at the intersection of Psychology & Tech.
+  date: March 9 2018
+  url: /monthly
 
 - name: Location in Performance Workshop
   line: Explore location positioning in  games, performance and installations.
