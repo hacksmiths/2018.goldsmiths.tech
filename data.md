@@ -31,7 +31,7 @@ desc: |
   <li>18:00 - Event finish</li>
   </ul>
 
-  <p>During the day there will be workshop run by Mollie Hanley from <a href="https://opencorporates.com">opencorporates.com</a>.</p>
+  <p>Presenters include Dr Olivia Guest (<a href="http://redistrict.science/">redistrict.science</a>, <a href="http://neuroplausible.com/">neuroplausible.com</a>) and Mollie Hanley (<a href="https://opencorporates.com">opencorporates.com</a>).</p>
 
 where-when: |
   Room RHB 300<br>
