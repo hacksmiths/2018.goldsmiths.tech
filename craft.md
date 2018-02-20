@@ -6,7 +6,8 @@ projectname: craft
 og: "/projects/craft/og.png"
 one_line: Weekly space to play with technology, for everyone.
 tagline: Whatever your skills, this is for you.
-description: <p>Join us for a weekly co-working session aimed at everyone - regardless
+description: |
+  <p>Join us for a weekly co-working session aimed at everyone - regardless
   of your skills, background or circumstance. Code & Craft is an opportunity to get
   support on your technical projects from other attendees and the Hacksmiths team.</p><p>Whether
   you want to learn about web development, a specific programming language, electronics
@@ -19,12 +20,9 @@ description: <p>Join us for a weekly co-working session aimed at everyone - rega
   people between 7 and 17.</p><p>You don't need any skills to attend - just bring
   a laptop (ideally). By attending you agree to abide by our <a href="https://github.com/hacksmiths/code-of-conduct">Code
   of Conduct</a>. You do not need to sign up, but please contact Laila Majeed at <a
-  href="lmaje002@gold.ac.uk">lmaje002@gold.ac.uk</a> if you have any questions.</p><small>Our
-  weekly session normally takes place in Margaret McMillan Building Room 220, but
-  is located in St James Block 3 on the following dates to facilitate trips from local
-  colleges - 17 Jan, 28 Feb, 14 March and 28 March.</small>
+  href="lmaje002@gold.ac.uk">lmaje002@gold.ac.uk</a> if you have any questions.</p><p><b>We support our striking lecturers. As a result, we will not run Code & Craft on the following dates: Feb 28, March 7, March 14.</b></p>
 time: 16:00 - 18:00
-address: MMB 220 or St James Block 3<br>Goldsmiths, University of London<br>London,<br>SE14
+address: MMB 220<br>Goldsmiths, University of London<br>London,<br>SE14
   6AD
 hashtag: codeandcraft
 supporters:
