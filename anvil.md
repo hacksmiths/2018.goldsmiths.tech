@@ -38,7 +38,7 @@ supporters:
     <div class="row">
       <div class="col-md-4">
         <div class="text-block">
-          <h5>What is a hcakathon?</h5>
+          <h5>What is a hackathon?</h5>
           <p>Hackathons are invention marathons for developers, designers, psychologists, researchers and more. During the event, participants ('hackers') will build projects that answer our challenges to build awesome creative projects.</p>
         </div>
         <div class="text-block">
