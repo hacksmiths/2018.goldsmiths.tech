@@ -20,6 +20,7 @@ supporters:
 - name: goldsmiths
 - name: doc
 - name: goldsu
+- name: github
 ---
 <hr>
 <section class="project-faq">
