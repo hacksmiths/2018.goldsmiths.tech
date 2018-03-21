@@ -23,6 +23,7 @@ supporters:
 - name: doc
 - name: goldsu
 - name: github
+- name: mfy
 ---
 <hr>
 <section class="project-faq">
