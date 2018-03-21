@@ -11,7 +11,7 @@ hashtag: MusicHackDay
 address: Goldsmiths, University of London<br>London,<br>SE14
   6AD
 description: |
-  <p>At the hackathon over the weekend, you will use your technical and creative skills to make something wonderful, engaging and musical - anything you build will be awesome. We'll provide you with food, drink, electricity and internet, so that you can get on with the real work - making cool and engaging projects!!</p>
+  <p>At the hackathon over the weekend, you will use your technical and creative skills to make something wonderful, engaging and musical - anything you build will be awesome. We'll provide you with food, drink, electricity and internet, so that you can get on with the real work - making cool and engaging projects!</p>
   <p>As well as access to our carefully curated <a href="/hardware">Hacksmiths Hardware Lab</a>, expect support from mentors and even more useful workshops for the duration of the event.</p>
 buttons:
 - name: Get free tickets
