@@ -14,9 +14,6 @@ description: |
   <p>As well as access to our carefully curated <a href="/hardware">Hacksmiths Hardware Lab</a>, expect support from mentors and even more useful workshops for the duration of the event.</p>
   <p>Schedule can be found <a href="https://docs.google.com/document/d/1AhrajFhEVsHw5cKhI5IUvHmbJFFYMeKX9SbmPbiKMsM/edit?usp=sharing">here</a></p>
 buttons:
-- name: Get free tickets
-  url: https://www.eventbrite.co.uk/e/anvil-hack-iv-tickets-42268728906
-  type: primary
 - name: Anvil Hack III Highlights
   url: https://storify.com/_phzn/anvilhackiii
 show_support_text: true
@@ -61,7 +58,7 @@ supporters:
       <div class="col-md-4">
         <div class="text-block">
           <h5>Who is this event for?</h5>
-          <p>This is an event open to all students, regardless of place of study. We are committed to providing opportunities to underrepresented groups in tech, so will have a set of diversity tickets available closer to the event.</p>
+          <p>This is an event open to everyone!!!!</p>
         </div>
         <div class="text-block">
           <h5>Who is running this event?</h5>
