@@ -104,32 +104,37 @@
   date: February 21 2017
   url: /social
   community: true
+  past: true
 
 - name: Anvil Hack IV
   line: Our annual student hackathon focussing on creative digital art.
   date: 24-25 February 2018
   url: /anvil
+  past: true
 
 - name: Open Data Day
   line: Exploring open data in the context of academia and transparency.
   date: March 3 2018
   url: /data
   community: true
+  past: true
 
 - name: Psychology x Tech Talk
   line: Inspiring talks at the intersection of Psychology & Tech.
   date: March 9 2018
   url: /monthly
+  past: true
 
 - name: Location in Performance Workshop
   line: Explore location positioning in  games, performance and installations.
   date: March 10 2018
   url: /location
   community: true
+  past: true
 
 - name: Lovelace - March
   line: A social for women and non binary people interested in creative tech.
-  date: March 15 2018
+  date: March 21 2018
   url: /lovelace
 
 - name: Psychology x Tech Talk - March
