@@ -74,6 +74,7 @@
   line: Weekly space to play with technology, for everyone.
   date: Every Wednesday
   url: /craft
+  past: true
 
 - name: Trip - Royal Hackaway
   line: A trip to the student hackathon at Royal Holloway, UoL.
