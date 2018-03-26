@@ -136,11 +136,13 @@
   line: A social for women and non binary people interested in creative tech.
   date: March 21 2018
   url: /lovelace
+  past: true
 
 - name: Psychology x Tech Talk - March
   line: Inspiring talks at the intersection of Psychology & Tech.
   date: March 23 2018
   url: /monthly
+  past: true
 
 - name: Music Hack Day London
   line: Experiment with music and develop ideas for it's future.
