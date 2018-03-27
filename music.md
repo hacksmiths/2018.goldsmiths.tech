@@ -25,6 +25,7 @@ supporters:
 - name: github
 - name: mfy
 - name: spotify
+- name: roli
 ---
 <hr>
 <section class="project-faq">
