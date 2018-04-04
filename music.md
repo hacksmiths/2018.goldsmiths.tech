@@ -17,6 +17,8 @@ buttons:
 - name: Get free tickets
   url: https://www.eventbrite.co.uk/e/music-hack-day-london-2018-tickets-44154280642
   type: primary
+- name: Schedule
+  url: https://docs.google.com/document/d/1R7Oc4MPKVGC82lxu435cGGNYVjghS07ojf6e28pqgfc/edit?usp=sharing
 show_support_text: true
 supporters:
 - name: goldsmiths
