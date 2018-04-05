@@ -26,6 +26,9 @@ supporters:
 - name: goldsu
 - name: github
 - name: mfy
+- name: spotify
+- name: twilio
+- name: roli
 ---
 <hr>
 <section class="project-faq">
@@ -57,7 +60,7 @@ supporters:
       <div class="col-md-4">
         <div class="text-block">
           <h5>Who is this event for?</h5>
-          <p>This is an event open to all students, regardless of place of study. We are committed to providing opportunities to underrepresented groups in tech, so will have a set of diversity tickets available closer to the event.</p>
+          <p>This event is for everyone - you don't need to be a student, from Goldsmiths, or a techie. We'll have beginner-friendly workshops and mentorship to make sure the event is accessible for everyone.</p>
         </div>
         <div class="text-block">
           <h5>Who is running this event?</h5>
