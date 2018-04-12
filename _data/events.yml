@@ -149,6 +149,7 @@
   line: Experiment with music and develop ideas for it's future.
   date: 7-8 April 2018
   url: /music
+  past: true
 
 - name: Lovelace - May
   line: A social for women and non binary people interested in creative tech.
