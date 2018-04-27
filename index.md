@@ -64,17 +64,6 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
     </div>
 </section>
 
-<section class="highlights">
-    <div class="container">
-        <div class="row grid">
-            <img src="/assets/img/highlights/team.jpg" alt="Team working together">
-            <img src="/assets/img/highlights/phoenix.jpg" alt="Phoenix at Sex Tech Hack">
-            <img src="/assets/img/highlights/panda.jpg" alt="Hacker working with electronics">
-            <img src="/assets/img/highlights/vr.jpg" alt="Hacker using VR kit">
-        </div>
-    </div>
-</section>
-
 <section class="events">
     <div class="container">
         <div class="row">

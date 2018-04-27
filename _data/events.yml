@@ -153,10 +153,15 @@
 
 - name: Lovelace - May
   line: A social for women and non binary people interested in creative tech.
-  date: May 1 2018
+  date: May 4 2018
   url: /lovelace
 
-- name: Electromagnetic Field 2018
+- name: AGM & End of Year Social
+  line: Join us to celebrate the year, and make important decisions for next.
+  date: May 8 2018
+  url: https://www.facebook.com/events/189915378400758/
+
+- name: Trip - EMFCamp 2018
   line: Trip to a hacker camping festival with over 2000 other techies.
   date: Aug 31 - Sept 2 2018
   url: https://www.facebook.com/events/1908454816135844/
