@@ -1,62 +1,16 @@
-- name: Alice Casey
-  photo: alice
-  email: acase002@gold.ac.uk
-- name: Anni Chen
-  role: Treasurer
-  photo: anni
-  email: achen002@gold.ac.uk
-- name: Ben Henshaw
-  photo: ben
-  email: bhens001@gold.ac.uk
-- name: Beth Loft
-  photo: beth
-  email: bloft015@gold.ac.uk
-- name: Bevis Halsey-Perry
-  photo: bevis
-  email: bhals001@gold.ac.uk
-- name: Charlie Ringer
-  photo: charlie
-  email: cring002@gold.ac.uk
-- name: Edwin Burns
-  photo: edwin
-  email: eburn050@gold.ac.uk
-- name: Elena Martina
-  photo: elena
-  email: emart015@gold.ac.uk
-- name: Erica Dos Santos Saraiva
-  photo: erica
-  email: edoss001@gold.ac.uk
 - name: Harley Wright
+  role: Diversity & Inclusion
   photo: harley
   email: hwrig002@gold.ac.uk
-- name: Ilya Phillips
-  photo: ilya
-  email: iphil011@gold.ac.uk
 - name: Isabella Maund
-  role: Diversity & Inclusion
+  role: Secretary
   photo: isabella
   email: imaun001@gold.ac.uk
-- name: Jade Hall-Smith
-  role: Accessibility Officer
-  photo: jade
-  email: jhall020@gold.ac.uk
-- name: Kevin Lewis
-  role: President
-  photo: kevin
-  email: klewi014@gold.ac.uk
-- name: Laila Majeed
-  photo: laila
-  email: lmaje002@gold.ac.uk
-- name: Opey Bankole
-  photo: opey
-  email: abank007@gold.ac.uk
 - name: Nathaniel Okenwa
-  role: Secretary
+  role: President
   photo: nathaniel
   email: noken003@gold.ac.uk
-- name: Terry Clark
-  photo: terry
-  email: tclar052@gold.ac.uk
-- name: Wilson Tolentino da Silva
-  photo: wilson
-  email: wbola001@gold.ac.uk
+- name: Valentine Eluwasi
+  role: Treasurer
+  photo: valentine
+  email: veluw001@gold.ac.uk
