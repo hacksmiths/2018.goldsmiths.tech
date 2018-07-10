@@ -9,7 +9,7 @@ one_line: Hacksmiths is the award-winning student-run tech society at Goldsmiths
 
 <section class="text-center team">
   <div class="container">
-    <h1>Our team</h1>
+    <h1>Our 2017-2018 team</h1>
     <h2>We're super friendly and happy to answer any questions you may have about Hacksmiths or our projects.</h2>
     <div class="grid-columns">
       {% for person in site.data.team %}

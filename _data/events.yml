@@ -2,154 +2,129 @@
   line: A hackday for all members of the Gold Computing community.
   date: September 26 2017
   url: /doc
-  past: true
 
 - name: HEBOCON 2017
   line: The best worst robot competition. Build them from trash and fight!
   date: October 4 2017
   url: /hebocon
-  past: true
 
 - name: Workshop - Web Design
   line: Learn the skills and techniques for building your first website.
   date: October 12 2017
   url: /monthly
-  past: true
 
 - name: Lovelace - Hello World
   line: A social for women and non binary people interested in creative tech.
   date: October 21 2017
   url: /lovelace
-  past: true
 
 - name: Trip - Aston Hack
   line: A trip to the student hackathon at Aston University, Birmingham.
   date: November 11-12 2018
   url: https://www.facebook.com/events/276338306218200
-  past: true
 
 - name: Workshop - Git
   line: A no-jargon introduction to open source culture and workflow.
   date: November 16 2017
   url: /monthly
-  past: true
 
 - name: Sex Tech Hack II - Discussions
   line: A day of collaborative discussions around the hackathon themes.
   date: November 24 2017
   url: /sex
-  past: true
 
 - name: Sex Tech Hack II - Hackathon
   line: Looking at intimacy, sexuality and companionship with technology.
   date: November 25-26 2017
   url: /sex
-  past: true
 
 - name: Local Hack Day 2017
   line: We run a center for the worldwide hack day aimed at beginners.
   date: December 2 2017
   url: https://hackday.mlh.io/Goldsmiths,%20University%20of%20London
-  past: true
 
 - name: Blockchain & Cryptocurrencies Talk
   line: NSE Goldsmiths welcome Atlas.Work for a talk on the future of work.
   date: December 4 2017
   url: https://www.facebook.com/events/124651134978556/
-  past: true
 
 - name: Lovelace - December 2017
   line: A social for women and non binary people interested in creative tech.
   date: December 7 2017
   url: /lovelace
-  past: true
 
 - name: Workshop - Storytelling
   line: Learn about the semantics of language through code.
   date: December 8 2017
   url: /monthly
-  past: true
 
 - name: Code & Craft
   line: Weekly space to play with technology, for everyone.
   date: Every Wednesday
   url: /craft
-  past: true
 
 - name: Trip - Royal Hackaway
   line: A trip to the student hackathon at Royal Holloway, UoL.
   date: January 13-14 2018
   url: https://www.facebook.com/events/299636683866936/
-  past: true
 
 - name: Happy Calm Chocsmiths
   line: Join Happy Calm Knitting and Chocolate Society for a welcome back!
   date: January 15 2018
   url: https://www.facebook.com/events/136640587023638/
-  past: true
 
 - name: Global Game Jam 2018
   line: Get together and create games together in one weekend.
   date: January 26-28 2018
   url: /game
-  past: true
 
 - name: Lovelace - February
   line: A social for women and non binary people interested in creative tech.
   date: February 2 2017
   url: /lovelace
-  past: true
 
 - name: Social Hacakthon 2018
   line: Exploring various volunteering themes to create impactful projects.
   date: February 21 2017
   url: /social
   community: true
-  past: true
 
 - name: Anvil Hack IV
   line: Our annual student hackathon focussing on creative digital art.
   date: 24-25 February 2018
   url: /anvil
-  past: true
 
 - name: Open Data Day
   line: Exploring open data in the context of academia and transparency.
   date: March 3 2018
   url: /data
   community: true
-  past: true
 
 - name: Psychology x Tech Talk
   line: Inspiring talks at the intersection of Psychology & Tech.
   date: March 9 2018
   url: /monthly
-  past: true
 
 - name: Location in Performance Workshop
   line: Explore location positioning in  games, performance and installations.
   date: March 10 2018
   url: /location
   community: true
-  past: true
 
 - name: Lovelace - March
   line: A social for women and non binary people interested in creative tech.
   date: March 21 2018
   url: /lovelace
-  past: true
 
 - name: Psychology x Tech Talk - March
   line: Inspiring talks at the intersection of Psychology & Tech.
   date: March 23 2018
   url: /monthly
-  past: true
 
 - name: Music Hack Day London
   line: Experiment with music and develop ideas for it's future.
   date: 7-8 April 2018
   url: /music
-  past: true
 
 - name: Lovelace - May
   line: A social for women and non binary people interested in creative tech.
